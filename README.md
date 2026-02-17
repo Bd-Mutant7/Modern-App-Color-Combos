@@ -73,6 +73,29 @@ cd Modern-App-Color-Combos/health  # or fitness, fintech, etc.
 # - Luxury/futuristic options
 # - Usage guidelines
 ```
+## 📱 App Categories
+
+<div align="center">
+
+| Category | Primary Palette | Dark Mode | Luxury Style |
+|:--------:|:---------------:|:---------:|:------------:|
+| 🏥 **Health** | `#4ECDC4` ![#4ECDC4](https://via.placeholder.com/15/4ECDC4/000000?text=+) `#FFFFFF` ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+) `#2C3E50` ![#2C3E50](https://via.placeholder.com/15/2C3E50/FFFFFF?text=+) | ✅ | ✅ |
+| 🌾 **Farming** | `#00A86B` ![#00A86B](https://via.placeholder.com/15/00A86B/FFFFFF?text=+) `#8B5A2B` ![#8B5A2B](https://via.placeholder.com/15/8B5A2B/FFFFFF?text=+) `#FFF8E7` ![#FFF8E7](https://via.placeholder.com/15/FFF8E7/000000?text=+) | ✅ | ✅ |
+| 💪 **Fitness** | `#FF6B4A` ![#FF6B4A](https://via.placeholder.com/15/FF6B4A/FFFFFF?text=+) `#2C3E50` ![#2C3E50](https://via.placeholder.com/15/2C3E50/FFFFFF?text=+) `#BFFF00` ![#BFFF00](https://via.placeholder.com/15/BFFF00/000000?text=+) | ✅ | ✅ |
+| 🗺️ **Navigation** | `#4A90E2` ![#4A90E2](https://via.placeholder.com/15/4A90E2/FFFFFF?text=+) `#4A5568` ![#4A5568](https://via.placeholder.com/15/4A5568/FFFFFF?text=+) `#FF6B4A` ![#FF6B4A](https://via.placeholder.com/15/FF6B4A/FFFFFF?text=+) | ✅ | ✅ |
+| 💳 **Fintech** | `#0A2342` ![#0A2342](https://via.placeholder.com/15/0A2342/FFFFFF?text=+) `#2C7A7B` ![#2C7A7B](https://via.placeholder.com/15/2C7A7B/FFFFFF?text=+) `#D4AF37` ![#D4AF37](https://via.placeholder.com/15/D4AF37/000000?text=+) | ✅ | ✅ |
+| 🛍️ **E-commerce** | `#008080` ![#008080](https://via.placeholder.com/15/008080/FFFFFF?text=+) `#FF6B4A` ![#FF6B4A](https://via.placeholder.com/15/FF6B4A/FFFFFF?text=+) `#FFF9F0` ![#FFF9F0](https://via.placeholder.com/15/FFF9F0/000000?text=+) | ✅ | ✅ |
+| 📚 **Education** | `#4A90E2` ![#4A90E2](https://via.placeholder.com/15/4A90E2/FFFFFF?text=+) `#00A86B` ![#00A86B](https://via.placeholder.com/15/00A86B/FFFFFF?text=+) `#FFF9F0` ![#FFF9F0](https://via.placeholder.com/15/FFF9F0/000000?text=+) | ✅ | ✅ |
+| 🎮 **Entertainment** | `#6C5CE7` ![#6C5CE7](https://via.placeholder.com/15/6C5CE7/FFFFFF?text=+) `#FF6B4A` ![#FF6B4A](https://via.placeholder.com/15/FF6B4A/FFFFFF?text=+) `#0A0A0A` ![#0A0A0A](https://via.placeholder.com/15/0A0A0A/FFFFFF?text=+) | ✅ | ✅ |
+| 🤝 **Social** | `#4A90E2` ![#4A90E2](https://via.placeholder.com/15/4A90E2/FFFFFF?text=+) `#FF6B4A` ![#FF6B4A](https://via.placeholder.com/15/FF6B4A/FFFFFF?text=+) `#F8F9FA` ![#F8F9FA](https://via.placeholder.com/15/F8F9FA/000000?text=+) | ✅ | ✅ |
+| 📊 **Productivity** | `#4A5568` ![#4A5568](https://via.placeholder.com/15/4A5568/FFFFFF?text=+) `#00A86B` ![#00A86B](https://via.placeholder.com/15/00A86B/FFFFFF?text=+) `#F8F9FA` ![#F8F9FA](https://via.placeholder.com/15/F8F9FA/000000?text=+) | ✅ | ✅ |
+| ✈️ **Travel** | `#4A90E2` ![#4A90E2](https://via.placeholder.com/15/4A90E2/FFFFFF?text=+) `#F5A623` ![#F5A623](https://via.placeholder.com/15/F5A623/FFFFFF?text=+) `#FFFFFF` ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+) | ✅ | ✅ |
+| 🍔 **Food & Drink** | `#FF6B4A` ![#FF6B4A](https://via.placeholder.com/15/FF6B4A/FFFFFF?text=+) `#8B5A2B` ![#8B5A2B](https://via.placeholder.com/15/8B5A2B/FFFFFF?text=+) `#FFF9F0` ![#FFF9F0](https://via.placeholder.com/15/FFF9F0/000000?text=+) | ✅ | ✅ |
+| 📰 **News** | `#2C3E50` ![#2C3E50](https://via.placeholder.com/15/2C3E50/FFFFFF?text=+) `#E74C3C` ![#E74C3C](https://via.placeholder.com/15/E74C3C/FFFFFF?text=+) `#FFFFFF` ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+) | ✅ | ✅ |
+| 🎵 **Music** | `#6C5CE7` ![#6C5CE7](https://via.placeholder.com/15/6C5CE7/FFFFFF?text=+) `#00A86B` ![#00A86B](https://via.placeholder.com/15/00A86B/FFFFFF?text=+) `#0A0A0A` ![#0A0A0A](https://via.placeholder.com/15/0A0A0A/FFFFFF?text=+) | ✅ | ✅ |
+| 📱 **Messaging** | `#4A90E2` ![#4A90E2](https://via.placeholder.com/15/4A90E2/FFFFFF?text=+) `#00A86B` ![#00A86B](https://via.placeholder.com/15/00A86B/FFFFFF?text=+) `#FFFFFF` ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+) | ✅ | ✅ |
+
+</div>
 
 ## 📱 App Categories
 
