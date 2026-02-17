@@ -615,12 +615,12 @@ const wcagCompliant = true;
   
 ### 📊 Key Metrics
 
-  ```markdown
+ 
 | Metric | Value |
 |--------|-------|
 | 👥 Users Tested | 10,247 |
 | 📱 Apps Analyzed | 53 |
-```
+
 
 ## 🧪 A/B Testing Results
 
