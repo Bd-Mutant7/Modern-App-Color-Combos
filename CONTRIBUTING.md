@@ -36,7 +36,7 @@ Found an app using one of our palettes? Add it to the examples directory!
 ## 📝 Style Guidelines
 
 ### Color Format
-```markdown
+
 | Color Name | Hex Code | HSL Value | Usage |
 |------------|----------|-----------|-------|
 | Navy Blue | `#0A2342` | `hsl(220, 65%, 15%)` | Primary background |
