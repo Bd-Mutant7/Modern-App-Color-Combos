@@ -744,7 +744,9 @@ If this guide helps you, please consider:
   [Report Issue](https://github.com/Bd-Mutant7/Modern-App-Color-Combos/issues) • 
   [Contributing](CONTRIBUTING.md)
 
-   Found this helpful? Give it a ⭐!
+  
+   **Found this helpful? Give it a ⭐!**
+   
   <br>
   <sub>Last updated: February 2026</sub>
 </div>
