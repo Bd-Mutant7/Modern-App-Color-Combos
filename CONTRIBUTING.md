@@ -42,7 +42,7 @@ First off, thank you for considering contributing! 🎉
 5. Submit a pull request
 
 ## Contact
-- **GitHub**:[![GitHub](https://img.shields.io/badge/GitHub-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bd-Mutant7)
-- **Email**:[![Email](https://img.shields.io/badge/Email-4ECDC4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spicezke@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bd-Mutant7)
+[![Email](https://img.shields.io/badge/Email-4ECDC4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spicezke@gmail.com)
 
 Thank you for helping make this project better! 🚀
