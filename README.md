@@ -97,26 +97,7 @@ cd Modern-App-Color-Combos/health  # or fitness, fintech, etc.
 
 </div>
 
-## 📱 App Categories
 
-<div align="center">
-
-| Category | Primary Palette | Dark Mode | Luxury Style |
-|:--------:|:---------------:|:---------:|:------------:|
-| 🏥 **Health** | <code>#4ECDC4</code> <img src="https://via.placeholder.com/15/4ECDC4/000000?text=+" width="15" height="15"> <code>#FFFFFF</code> <img src="https://via.placeholder.com/15/FFFFFF/000000?text=+" width="15" height="15"> <code>#2C3E50</code> <img src="https://via.placeholder.com/15/2C3E50/FFFFFF?text=+" width="15" height="15"> | ✅ | ✅ |
-| 🌾 **Farming** | <code>#00A86B</code> <img src="https://via.placeholder.com/15/00A86B/FFFFFF?text=+" width="15" height="15"> <code>#8B5A2B</code> <img src="https://via.placeholder.com/15/8B5A2B/FFFFFF?text=+" width="15" height="15"> <code>#FFF8E7</code> <img src="https://via.placeholder.com/15/FFF8E7/000000?text=+" width="15" height="15"> | ✅ | ✅ |
-| 💪 **Fitness** | <code>#FF6B4A</code> <img src="https://via.placeholder.com/15/FF6B4A/FFFFFF?text=+" width="15" height="15"> <code>#2C3E50</code> <img src="https://via.placeholder.com/15/2C3E50/FFFFFF?text=+" width="15" height="15"> <code>#BFFF00</code> <img src="https://via.placeholder.com/15/BFFF00/000000?text=+" width="15" height="15"> | ✅ | ✅ |
-| 🗺️ **Navigation** | <code>#4A90E2</code> <img src="https://via.placeholder.com/15/4A90E2/FFFFFF?text=+" width="15" height="15"> <code>#4A5568</code> <img src="https://via.placeholder.com/15/4A5568/FFFFFF?text=+" width="15" height="15"> <code>#FF6B4A</code> <img src="https://via.placeholder.com/15/FF6B4A/FFFFFF?text=+" width="15" height="15"> | ✅ | ✅ |
-| 💳 **Fintech** | <code>#0A2342</code> <img src="https://via.placeholder.com/15/0A2342/FFFFFF?text=+" width="15" height="15"> <code>#2C7A7B</code> <img src="https://via.placeholder.com/15/2C7A7B/FFFFFF?text=+" width="15" height="15"> <code>#D4AF37</code> <img src="https://via.placeholder.com/15/D4AF37/000000?text=+" width="15" height="15"> | ✅ | ✅ |
-| 🛍️ **E-commerce** | <code>#008080</code> <img src="https://via.placeholder.com/15/008080/FFFFFF?text=+" width="15" height="15"> <code>#FF6B4A</code> <img src="https://via.placeholder.com/15/FF6B4A/FFFFFF?text=+" width="15" height="15"> <code>#FFF9F0</code> <img src="https://via.placeholder.com/15/FFF9F0/000000?text=+" width="15" height="15"> | ✅ | ✅ |
-| 📚 **Education** | <code>#4A90E2</code> <img src="https://via.placeholder.com/15/4A90E2/FFFFFF?text=+" width="15" height="15"> <code>#00A86B</code> <img src="https://via.placeholder.com/15/00A86B/FFFFFF?text=+" width="15" height="15"> <code>#FFF9F0</code> <img src="https://via.placeholder.com/15/FFF9F0/000000?text=+" width="15" height="15"> | ✅ | ✅ |
-| 🎮 **Entertainment** | <code>#6C5CE7</code> <img src="https://via.placeholder.com/15/6C5CE7/FFFFFF?text=+" width="15" height="15"> <code>#FF6B4A</code> <img src="https://via.placeholder.com/15/FF6B4A/FFFFFF?text=+" width="15" height="15"> <code>#0A0A0A</code> <img src="https://via.placeholder.com/15/0A0A0A/FFFFFF?text=+" width="15" height="15"> | ✅ | ✅ |
-| 🤝 **Social** | <code>#4A90E2</code> <img src="https://via.placeholder.com/15/4A90E2/FFFFFF?text=+" width="15" height="15"> <code>#FF6B4A</code> <img src="https://via.placeholder.com/15/FF6B4A/FFFFFF?text=+" width="15" height="15"> <code>#F8F9FA</code> <img src="https://via.placeholder.com/15/F8F9FA/000000?text=+" width="15" height="15"> | ✅ | ✅ |
-| 📊 **Productivity** | <code>#4A5568</code> <img src="https://via.placeholder.com/15/4A5568/FFFFFF?text=+" width="15" height="15"> <code>#00A86B</code> <img src="https://via.placeholder.com/15/00A86B/FFFFFF?text=+" width="15" height="15"> <code>#F8F9FA</code> <img src="https://via.placeholder.com/15/F8F9FA/000000?text=+" width="15" height="15"> | ✅ | ✅ |
-| ✈️ **Travel** | <code>#4A90E2</code> <img src="https://via.placeholder.com/15/4A90E2/FFFFFF?text=+" width="15" height="15"> <code>#F5A623</code> <img src="https://via.placeholder.com/15/F5A623/FFFFFF?text=+" width="15" height="15"> <code>#FFFFFF</code> <img src="https://via.placeholder.com/15/FFFFFF/000000?text=+" width="15" height="15"> | ✅ | ✅ |
-| 🍔 **Food & Drink** | <code>#FF6B4A</code> <img src="https://via.placeholder.com/15/FF6B4A/FFFFFF?text=+" width="15" height="15"> <code>#8B5A2B</code> <img src="https://via.placeholder.com/15/8B5A2B/FFFFFF?text=+" width="15" height="15"> <code>#FFF9F0</code> <img src="https://via.placeholder.com/15/FFF9F0/000000?text=+" width="15" height="15"> | ✅ | ✅ |
-
-</div>
 
 ## 🎯 Quick Implementation Guide
 
