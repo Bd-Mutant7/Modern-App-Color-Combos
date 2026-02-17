@@ -1,0 +1,1255 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>App Color Combinations 2026 | Interactive Theme Switcher</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        body {
+            min-height: 100vh;
+            padding: 2rem;
+            background: var(--body-bg);
+        }
+
+        /* Default Light Theme (Health) */
+        :root {
+            --body-bg: linear-gradient(135deg, #f5f7fa 0%, #e9ecef 100%);
+            --container-bg: white;
+            --text-primary: #2C3E50;
+            --text-secondary: #4a5568;
+            --border-color: #e2e8f0;
+            --card-bg: white;
+            --card-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            --hover-shadow: 0 12px 20px rgba(0,0,0,0.15);
+            --accent-primary: #4ECDC4;
+            --accent-secondary: #FF6B6B;
+            --button-bg: #667eea;
+            --button-hover: #5a67d8;
+            --tool-bg: #f7fafc;
+            --input-bg: white;
+            --input-border: #e2e8f0;
+        }
+
+        /* Dark Theme (Fitness Dark Mode) */
+        [data-theme="fitness-dark"] {
+            --body-bg: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            --container-bg: #1e1e2f;
+            --text-primary: #e0e0e0;
+            --text-secondary: #a0a0a0;
+            --border-color: #2d3748;
+            --card-bg: #2a2a3a;
+            --card-shadow: 0 4px 6px rgba(0,0,0,0.3);
+            --hover-shadow: 0 12px 20px rgba(0,0,0,0.4);
+            --accent-primary: #FF6B4A;
+            --accent-secondary: #BFFF00;
+            --button-bg: #FF6B4A;
+            --button-hover: #ff8255;
+            --tool-bg: #2d2d3d;
+            --input-bg: #2d2d3d;
+            --input-border: #3d3d5a;
+        }
+
+        /* Luxury Theme (Fintech Luxury) */
+        [data-theme="fintech-luxury"] {
+            --body-bg: linear-gradient(135deg, #0A2342 0%, #1a1a2e 100%);
+            --container-bg: #0A0A0A;
+            --text-primary: #E5E4E2;
+            --text-secondary: #C0C0C0;
+            --border-color: #D4AF37;
+            --card-bg: #000000;
+            --card-shadow: 0 4px 20px rgba(212, 175, 55, 0.2);
+            --hover-shadow: 0 12px 30px rgba(212, 175, 55, 0.3);
+            --accent-primary: #D4AF37;
+            --accent-secondary: #4A90E2;
+            --button-bg: #D4AF37;
+            --button-hover: #e5c158;
+            --tool-bg: #1a1a1a;
+            --input-bg: #1a1a1a;
+            --input-border: #D4AF37;
+        }
+
+        /* Navigation Dark Theme */
+        [data-theme="nav-dark"] {
+            --body-bg: linear-gradient(135deg, #1A1A2E 0%, #16213E 100%);
+            --container-bg: #1A1A2E;
+            --text-primary: #E0E0E0;
+            --text-secondary: #A0A0A0;
+            --border-color: #4A90E2;
+            --card-bg: #16213E;
+            --card-shadow: 0 4px 6px rgba(74, 144, 226, 0.2);
+            --hover-shadow: 0 12px 20px rgba(74, 144, 226, 0.3);
+            --accent-primary: #4A90E2;
+            --accent-secondary: #FF6B4A;
+            --button-bg: #4A90E2;
+            --button-hover: #5a9ae8;
+            --tool-bg: #1e2a3a;
+            --input-bg: #1e2a3a;
+            --input-border: #4A90E2;
+        }
+
+        /* E-commerce Luxury */
+        [data-theme="ecommerce-luxury"] {
+            --body-bg: linear-gradient(135deg, #0A0A0A 0%, #1a1a1a 100%);
+            --container-bg: #0A0A0A;
+            --text-primary: #E5E4E2;
+            --text-secondary: #B76E79;
+            --border-color: #B76E79;
+            --card-bg: #1a1a1a;
+            --card-shadow: 0 4px 20px rgba(183, 110, 121, 0.2);
+            --hover-shadow: 0 12px 30px rgba(183, 110, 121, 0.3);
+            --accent-primary: #B76E79;
+            --accent-secondary: #4A90E2;
+            --button-bg: #B76E79;
+            --button-hover: #c48a94;
+            --tool-bg: #2a2a2a;
+            --input-bg: #2a2a2a;
+            --input-border: #B76E79;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: var(--container-bg);
+            border-radius: 30px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            padding: 2rem;
+            border: 1px solid var(--border-color);
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            background: linear-gradient(135deg, var(--accent-primary) 0%, var(--accent-secondary) 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 0.5rem;
+        }
+
+        h2 {
+            color: var(--text-primary);
+            margin: 2rem 0 1rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 3px solid var(--accent-primary);
+        }
+
+        .theme-bar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 2rem;
+            padding: 1rem;
+            background: var(--tool-bg);
+            border-radius: 15px;
+            border: 1px solid var(--border-color);
+            flex-wrap: wrap;
+            gap: 1rem;
+        }
+
+        .theme-buttons {
+            display: flex;
+            gap: 0.5rem;
+            flex-wrap: wrap;
+        }
+
+        .theme-btn {
+            padding: 0.75rem 1.5rem;
+            border: 2px solid var(--border-color);
+            border-radius: 10px;
+            background: var(--card-bg);
+            color: var(--text-primary);
+            cursor: pointer;
+            font-weight: 600;
+            transition: all 0.3s;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .theme-btn:hover {
+            transform: translateY(-2px);
+            border-color: var(--accent-primary);
+        }
+
+        .theme-btn.active {
+            background: var(--accent-primary);
+            color: white;
+            border-color: var(--accent-primary);
+        }
+
+        .color-demo {
+            display: flex;
+            gap: 0.5rem;
+            align-items: center;
+        }
+
+        .demo-dot {
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            border: 2px solid var(--border-color);
+        }
+
+        .tools-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 2rem;
+            margin: 2rem 0;
+        }
+
+        .tool-card {
+            background: var(--card-bg);
+            border-radius: 20px;
+            padding: 1.5rem;
+            box-shadow: var(--card-shadow);
+            border: 1px solid var(--border-color);
+        }
+
+        .tool-header {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .tool-icon {
+            font-size: 2rem;
+        }
+
+        .tool-title {
+            font-size: 1.25rem;
+            font-weight: 600;
+            color: var(--text-primary);
+        }
+
+        .color-picker-group {
+            display: flex;
+            gap: 1rem;
+            align-items: center;
+            margin-bottom: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .color-preview {
+            width: 60px;
+            height: 60px;
+            border-radius: 12px;
+            border: 3px solid var(--border-color);
+            cursor: pointer;
+            transition: transform 0.2s;
+        }
+
+        .color-preview:hover {
+            transform: scale(1.05);
+        }
+
+        .color-input {
+            flex: 1;
+            padding: 0.75rem;
+            border: 2px solid var(--input-border);
+            border-radius: 10px;
+            font-family: monospace;
+            font-size: 1rem;
+            background: var(--input-bg);
+            color: var(--text-primary);
+        }
+
+        .contrast-result {
+            background: var(--tool-bg);
+            padding: 1.5rem;
+            border-radius: 15px;
+            margin-top: 1.5rem;
+        }
+
+        .contrast-ratio {
+            font-size: 2.5rem;
+            font-weight: bold;
+            text-align: center;
+            margin: 0.5rem 0;
+            color: var(--text-primary);
+        }
+
+        .wcag-badge {
+            display: inline-block;
+            padding: 0.5rem 1rem;
+            border-radius: 9999px;
+            font-weight: 600;
+            margin: 0.25rem;
+        }
+
+        .badge-aaa { background: #48bb78; color: white; }
+        .badge-aa { background: #4299e1; color: white; }
+        .badge-fail { background: #f56565; color: white; }
+
+        .harmony-selector {
+            display: flex;
+            gap: 0.5rem;
+            flex-wrap: wrap;
+            margin: 1rem 0;
+        }
+
+        .harmony-btn {
+            padding: 0.5rem 1rem;
+            border: 1px solid var(--border-color);
+            border-radius: 9999px;
+            background: var(--card-bg);
+            color: var(--text-primary);
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .harmony-btn:hover,
+        .harmony-btn.active {
+            background: var(--accent-primary);
+            color: white;
+            border-color: var(--accent-primary);
+        }
+
+        .category-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 1.5rem;
+            margin: 2rem 0;
+        }
+
+        .category-card {
+            background: var(--card-bg);
+            border-radius: 15px;
+            padding: 1.5rem;
+            box-shadow: var(--card-shadow);
+            transition: transform 0.2s, box-shadow 0.2s;
+            border: 1px solid var(--border-color);
+            cursor: pointer;
+        }
+
+        .category-card:hover {
+            transform: translateY(-5px);
+            box-shadow: var(--hover-shadow);
+            border-color: var(--accent-primary);
+        }
+
+        .category-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 1rem;
+        }
+
+        .category-icon {
+            font-size: 2rem;
+        }
+
+        .category-title {
+            font-size: 1.25rem;
+            font-weight: 600;
+            color: var(--text-primary);
+        }
+
+        .color-row {
+            display: flex;
+            align-items: center;
+            margin: 0.75rem 0;
+            gap: 0.75rem;
+        }
+
+        .color-label {
+            width: 80px;
+            font-size: 0.875rem;
+            color: var(--text-secondary);
+            font-weight: 500;
+        }
+
+        .color-box {
+            width: 40px;
+            height: 30px;
+            border-radius: 6px;
+            border: 2px solid var(--border-color);
+            cursor: pointer;
+            transition: transform 0.2s;
+        }
+
+        .color-box:hover {
+            transform: scale(1.1);
+        }
+
+        .color-hex {
+            font-family: 'Courier New', monospace;
+            font-size: 0.875rem;
+            color: var(--text-primary);
+            background: var(--tool-bg);
+            padding: 0.25rem 0.5rem;
+            border-radius: 6px;
+            border: 1px solid var(--border-color);
+        }
+
+        .apply-theme-btn {
+            width: 100%;
+            margin-top: 1rem;
+            padding: 0.75rem;
+            background: var(--accent-primary);
+            color: white;
+            border: none;
+            border-radius: 10px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.5rem;
+        }
+
+        .apply-theme-btn:hover {
+            background: var(--accent-secondary);
+            transform: scale(1.02);
+        }
+
+        .feature-tags {
+            display: flex;
+            gap: 0.5rem;
+            margin-top: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .feature-tag {
+            padding: 0.25rem 0.75rem;
+            border-radius: 9999px;
+            font-size: 0.75rem;
+            font-weight: 600;
+        }
+
+        .tag-dark { background: #2d3748; color: white; }
+        .tag-luxury { background: #fbbf24; color: #1a202c; }
+        .tag-light { background: #e2e8f0; color: #2d3748; }
+
+        .search-box {
+            width: 100%;
+            padding: 1rem;
+            border: 2px solid var(--input-border);
+            border-radius: 15px;
+            font-size: 1rem;
+            margin: 1rem 0;
+            background: var(--input-bg);
+            color: var(--text-primary);
+        }
+
+        .search-box:focus {
+            outline: none;
+            border-color: var(--accent-primary);
+        }
+
+        .filter-buttons {
+            display: flex;
+            gap: 0.5rem;
+            flex-wrap: wrap;
+            margin: 1rem 0;
+        }
+
+        .filter-btn {
+            padding: 0.5rem 1rem;
+            border: 1px solid var(--border-color);
+            border-radius: 9999px;
+            background: var(--card-bg);
+            color: var(--text-primary);
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .filter-btn:hover,
+        .filter-btn.active {
+            background: var(--accent-primary);
+            color: white;
+            border-color: var(--accent-primary);
+        }
+
+        .toast {
+            position: fixed;
+            bottom: 2rem;
+            right: 2rem;
+            background: var(--accent-primary);
+            color: white;
+            padding: 1rem 2rem;
+            border-radius: 10px;
+            box-shadow: 0 10px 20px rgba(0,0,0,0.3);
+            display: none;
+            animation: slideIn 0.3s;
+            z-index: 1000;
+        }
+
+        @keyframes slideIn {
+            from {
+                transform: translateX(100%);
+                opacity: 0;
+            }
+            to {
+                transform: translateX(0);
+                opacity: 1;
+            }
+        }
+
+        .current-theme-indicator {
+            background: var(--accent-primary);
+            color: white;
+            padding: 0.5rem 1rem;
+            border-radius: 9999px;
+            font-size: 0.875rem;
+        }
+
+        @media (max-width: 768px) {
+            body { padding: 1rem; }
+            .container { padding: 1rem; }
+            h1 { font-size: 2rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🎨 App Color Combinations 2026</h1>
+        <p style="color: var(--text-secondary); font-size: 1.2rem;">Research-backed color palettes with interactive theme switcher</p>
+
+        <!-- Theme Switcher Bar -->
+        <div class="theme-bar">
+            <div class="theme-buttons">
+                <button class="theme-btn active" onclick="setTheme('default')">
+                    <span class="demo-dot" style="background: #4ECDC4;"></span>
+                    🌞 Health Light
+                </button>
+                <button class="theme-btn" onclick="setTheme('fitness-dark')">
+                    <span class="demo-dot" style="background: #FF6B4A;"></span>
+                    🌙 Fitness Dark
+                </button>
+                <button class="theme-btn" onclick="setTheme('fintech-luxury')">
+                    <span class="demo-dot" style="background: #D4AF37;"></span>
+                    💎 Fintech Luxury
+                </button>
+                <button class="theme-btn" onclick="setTheme('nav-dark')">
+                    <span class="demo-dot" style="background: #4A90E2;"></span>
+                    🗺️ Navigation Dark
+                </button>
+                <button class="theme-btn" onclick="setTheme('ecommerce-luxury')">
+                    <span class="demo-dot" style="background: #B76E79;"></span>
+                    🛍️ E-commerce Luxury
+                </button>
+            </div>
+            <div class="current-theme-indicator" id="currentTheme">
+                Current: Health Light
+            </div>
+        </div>
+
+        <!-- Color Tools Section -->
+        <h2>🛠️ Color Tools</h2>
+        
+        <div class="tools-grid">
+            <!-- Color Contrast Checker -->
+            <div class="tool-card">
+                <div class="tool-header">
+                    <span class="tool-icon">👁️</span>
+                    <span class="tool-title">Color Contrast Checker</span>
+                </div>
+                
+                <div class="color-picker-group">
+                    <div class="color-preview" id="fgPreview" style="background: #2C3E50;" onclick="document.getElementById('fgColor').click()"></div>
+                    <input type="color" id="fgColor" value="#2C3E50" style="display: none;">
+                    <input type="text" class="color-input" id="fgText" value="#2C3E50" placeholder="Foreground color">
+                </div>
+
+                <div class="color-picker-group">
+                    <div class="color-preview" id="bgPreview" style="background: #FFFFFF;" onclick="document.getElementById('bgColor').click()"></div>
+                    <input type="color" id="bgColor" value="#FFFFFF" style="display: none;">
+                    <input type="text" class="color-input" id="bgText" value="#FFFFFF" placeholder="Background color">
+                </div>
+
+                <div class="contrast-result">
+                    <div style="font-size: 1rem; color: var(--text-secondary); text-align: center;">Contrast Ratio</div>
+                    <div class="contrast-ratio" id="contrastRatio">12.0:1</div>
+                    
+                    <div style="display: flex; gap: 0.5rem; justify-content: center; flex-wrap: wrap; margin: 1rem 0;">
+                        <span class="wcag-badge badge-aaa" id="aaaBadge">AAA ✓</span>
+                        <span class="wcag-badge badge-aa" id="aaBadge">AA ✓</span>
+                        <span class="wcag-badge" id="aalargeBadge" style="background: #4299e1;">AA Large ✓</span>
+                    </div>
+
+                    <div style="background: var(--bg); color: var(--fg); padding: 1rem; border-radius: 10px; text-align: center; margin-top: 1rem;" id="previewText">
+                        Sample Text Preview
+                    </div>
+                </div>
+            </div>
+
+            <!-- Palette Generator -->
+            <div class="tool-card">
+                <div class="tool-header">
+                    <span class="tool-icon">🎨</span>
+                    <span class="tool-title">Palette Generator</span>
+                </div>
+
+                <div class="color-picker-group">
+                    <div class="color-preview" id="basePreview" style="background: #667EEA;" onclick="document.getElementById('baseColor').click()"></div>
+                    <input type="color" id="baseColor" value="#667EEA" style="display: none;">
+                    <input type="text" class="color-input" id="baseText" value="#667EEA" placeholder="Base color">
+                </div>
+
+                <div class="harmony-selector">
+                    <button class="harmony-btn active" onclick="setHarmony('monochromatic')">🌈 Monochromatic</button>
+                    <button class="harmony-btn" onclick="setHarmony('complementary')">🔄 Complementary</button>
+                    <button class="harmony-btn" onclick="setHarmony('triadic')">🔺 Triadic</button>
+                    <button class="harmony-btn" onclick="setHarmony('analogous')">📊 Analogous</button>
+                </div>
+
+                <div class="generated-colors" id="generatedPalette" style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 0.5rem; margin: 1rem 0;">
+                    <!-- Generated colors will appear here via JS -->
+                </div>
+
+                <div style="display: flex; gap: 0.5rem; margin-top: 1rem;">
+                    <button class="filter-btn" onclick="generatePalette()" style="flex: 1;">🔄 Generate</button>
+                    <button class="filter-btn" onclick="copyPalette()" style="flex: 1;">📋 Copy Palette</button>
+                </div>
+            </div>
+
+            <!-- Quick Info -->
+            <div class="tool-card">
+                <div class="tool-header">
+                    <span class="tool-icon">⚡</span>
+                    <span class="tool-title">Quick Theme Switcher</span>
+                </div>
+
+                <div style="margin: 1rem 0;">
+                    <p style="color: var(--text-secondary); margin-bottom: 1rem;">Click on any category card below to apply its theme to the entire page!</p>
+                    <div style="background: var(--tool-bg); padding: 1rem; border-radius: 10px;">
+                        <h3 style="color: var(--text-primary); margin-bottom: 0.5rem;">🎯 How to use:</h3>
+                        <ul style="color: var(--text-secondary); list-style: none;">
+                            <li>1️⃣ Browse categories below</li>
+                            <li>2️⃣ Click any card to preview its theme</li>
+                            <li>3️⃣ Use theme bar to switch between presets</li>
+                            <li>4️⃣ Generate custom palettes with the tool</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <h2>🔍 Find Your Palette</h2>
+        
+        <input type="text" class="search-box" id="searchInput" placeholder="🔍 Search categories (e.g., health, fitness, fintech...)">
+
+        <div class="filter-buttons" id="filterButtons">
+            <button class="filter-btn active" data-filter="all">All</button>
+            <button class="filter-btn" data-filter="dark">🌙 Dark Mode</button>
+            <button class="filter-btn" data-filter="luxury">💎 Luxury</button>
+            <button class="filter-btn" data-filter="light">☀️ Light Mode</button>
+        </div>
+
+        <h2>📱 Click Any Card to Apply Theme</h2>
+        
+        <!-- Category Grid -->
+        <div class="category-grid" id="categoryGrid">
+            <!-- Health -->
+            <div class="category-card" onclick="applyCategoryTheme('health-light', '#4ECDC4', '#2C3E50', '#FFFFFF', '#FF6B6B')" data-category="health light">
+                <div class="category-header">
+                    <span class="category-icon">🏥</span>
+                    <span class="category-title">Health - Light Theme</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label">Primary</span>
+                    <div class="color-box" style="background: #4ECDC4;" onclick="event.stopPropagation(); copyColor('#4ECDC4')"></div>
+                    <span class="color-hex">#4ECDC4</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label">Secondary</span>
+                    <div class="color-box" style="background: #2C3E50;" onclick="event.stopPropagation(); copyColor('#2C3E50')"></div>
+                    <span class="color-hex">#2C3E50</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label">Background</span>
+                    <div class="color-box" style="background: #FFFFFF; border:2px solid #ccc;" onclick="event.stopPropagation(); copyColor('#FFFFFF')"></div>
+                    <span class="color-hex">#FFFFFF</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label">Accent</span>
+                    <div class="color-box" style="background: #FF6B6B;" onclick="event.stopPropagation(); copyColor('#FF6B6B')"></div>
+                    <span class="color-hex">#FF6B6B</span>
+                </div>
+                <div class="feature-tags">
+                    <span class="feature-tag tag-light">☀️ Light</span>
+                </div>
+                <button class="apply-theme-btn" onclick="event.stopPropagation(); applyCategoryTheme('health-light', '#4ECDC4', '#2C3E50', '#FFFFFF', '#FF6B6B')">
+                    🎨 Apply This Theme
+                </button>
+            </div>
+
+            <!-- Fitness Dark -->
+            <div class="category-card" onclick="applyCategoryTheme('fitness-dark', '#FF6B4A', '#2C3E50', '#121212', '#BFFF00')" data-category="fitness dark">
+                <div class="category-header">
+                    <span class="category-icon">💪</span>
+                    <span class="category-title">Fitness - Dark Theme</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label">Primary</span>
+                    <div class="color-box" style="background: #FF6B4A;" onclick="event.stopPropagation(); copyColor('#FF6B4A')"></div>
+                    <span class="color-hex">#FF6B4A</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label">Secondary</span>
+                    <div class="color-box" style="background: #2C3E50;" onclick="event.stopPropagation(); copyColor('#2C3E50')"></div>
+                    <span class="color-hex">#2C3E50</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label">Background</span>
+                    <div class="color-box" style="background: #121212;" onclick="event.stopPropagation(); copyColor('#121212')"></div>
+                    <span class="color-hex">#121212</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label">Accent</span>
+                    <div class="color-box" style="background: #BFFF00;" onclick="event.stopPropagation(); copyColor('#BFFF00')"></div>
+                    <span class="color-hex">#BFFF00</span>
+                </div>
+                <div class="feature-tags">
+                    <span class="feature-tag tag-dark">🌙 Dark</span>
+                </div>
+                <button class="apply-theme-btn" onclick="event.stopPropagation(); applyCategoryTheme('fitness-dark', '#FF6B4A', '#2C3E50', '#121212', '#BFFF00')">
+                    🎨 Apply This Theme
+                </button>
+            </div>
+
+            <!-- Fintech Luxury -->
+            <div class="category-card" onclick="applyCategoryTheme('fintech-luxury', '#0A2342', '#2C7A7B', '#000000', '#D4AF37')" data-category="fintech luxury">
+                <div class="category-header">
+                    <span class="category-icon">💳</span>
+                    <span class="category-title">Fintech - Luxury</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label">Primary</span>
+                    <div class="color-box" style="background: #0A2342;" onclick="event.stopPropagation(); copyColor('#0A2342')"></div>
+                    <span class="color-hex">#0A2342</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label">Secondary</span>
+                    <div class="color-box" style="background: #2C7A7B;" onclick="event.stopPropagation(); copyColor('#2C7A7B')"></div>
+                    <span class="color-hex">#2C7A7B</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label">Background</span>
+                    <div class="color-box" style="background: #000000;" onclick="event.stopPropagation(); copyColor('#000000')"></div>
+                    <span class="color-hex">#000000</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label">Accent</span>
+                    <div class="color-box" style="background: #D4AF37;" onclick="event.stopPropagation(); copyColor('#D4AF37')"></div>
+                    <span class="color-hex">#D4AF37</span>
+                </div>
+                <div class="feature-tags">
+                    <span class="feature-tag tag-luxury">💎 Luxury</span>
+                </div>
+                <button class="apply-theme-btn" onclick="event.stopPropagation(); applyCategoryTheme('fintech-luxury', '#0A2342', '#2C7A7B', '#000000', '#D4AF37')">
+                    🎨 Apply This Theme
+                </button>
+            </div>
+
+            <!-- Navigation Dark -->
+            <div class="category-card" onclick="applyCategoryTheme('nav-dark', '#4A90E2', '#4A5568', '#1A1A2E', '#FF6B4A')" data-category="navigation dark">
+                <div class="category-header">
+                    <span class="category-icon">🗺️</span>
+                    <span class="category-title">Navigation - Dark</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label">Primary</span>
+                    <div class="color-box" style="background: #4A90E2;" onclick="event.stopPropagation(); copyColor('#4A90E2')"></div>
+                    <span class="color-hex">#4A90E2</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label">Secondary</span>
+                    <div class="color-box" style="background: #4A5568;" onclick="event.stopPropagation(); copyColor('#4A5568')"></div>
+                    <span class="color-hex">#4A5568</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label">Background</span>
+                    <div class="color-box" style="background: #1A1A2E;" onclick="event.stopPropagation(); copyColor('#1A1A2E')"></div>
+                    <span class="color-hex">#1A1A2E</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label">Accent</span>
+                    <div class="color-box" style="background: #FF6B4A;" onclick="event.stopPropagation(); copyColor('#FF6B4A')"></div>
+                    <span class="color-hex">#FF6B4A</span>
+                </div>
+                <div class="feature-tags">
+                    <span class="feature-tag tag-dark">🌙 Dark</span>
+                </div>
+                <button class="apply-theme-btn" onclick="event.stopPropagation(); applyCategoryTheme('nav-dark', '#4A90E2', '#4A5568', '#1A1A2E', '#FF6B4A')">
+                    🎨 Apply This Theme
+                </button>
+            </div>
+
+            <!-- E-commerce Luxury -->
+            <div class="category-card" onclick="applyCategoryTheme('ecommerce-luxury', '#008080', '#FF6B4A', '#0A0A0A', '#B76E79')" data-category="ecommerce luxury">
+                <div class="category-header">
+                    <span class="category-icon">🛍️</span>
+                    <span class="category-title">E-commerce - Luxury</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label">Primary</span>
+                    <div class="color-box" style="background: #008080;" onclick="event.stopPropagation(); copyColor('#008080')"></div>
+                    <span class="color-hex">#008080</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label">Secondary</span>
+                    <div class="color-box" style="background: #FF6B4A;" onclick="event.stopPropagation(); copyColor('#FF6B4A')"></div>
+                    <span class="color-hex">#FF6B4A</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label">Background</span>
+                    <div class="color-box" style="background: #0A0A0A;" onclick="event.stopPropagation(); copyColor('#0A0A0A')"></div>
+                    <span class="color-hex">#0A0A0A</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label">Accent</span>
+                    <div class="color-box" style="background: #B76E79;" onclick="event.stopPropagation(); copyColor('#B76E79')"></div>
+                    <span class="color-hex">#B76E79</span>
+                </div>
+                <div class="feature-tags">
+                    <span class="feature-tag tag-luxury">💎 Luxury</span>
+                </div>
+                <button class="apply-theme-btn" onclick="event.stopPropagation(); applyCategoryTheme('ecommerce-luxury', '#008080', '#FF6B4A', '#0A0A0A', '#B76E79')">
+                    🎨 Apply This Theme
+                </button>
+            </div>
+
+            <!-- Education Light -->
+            <div class="category-card" onclick="applyCategoryTheme('education-light', '#4A90E2', '#00A86B', '#FFF9F0', '#FF9A8B')" data-category="education light">
+                <div class="category-header">
+                    <span class="category-icon">📚</span>
+                    <span class="category-title">Education - Light</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label">Primary</span>
+                    <div class="color-box" style="background: #4A90E2;" onclick="event.stopPropagation(); copyColor('#4A90E2')"></div>
+                    <span class="color-hex">#4A90E2</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label">Secondary</span>
+                    <div class="color-box" style="background: #00A86B;" onclick="event.stopPropagation(); copyColor('#00A86B')"></div>
+                    <span class="color-hex">#00A86B</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label">Background</span>
+                    <div class="color-box" style="background: #FFF9F0;" onclick="event.stopPropagation(); copyColor('#FFF9F0')"></div>
+                    <span class="color-hex">#FFF9F0</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label">Accent</span>
+                    <div class="color-box" style="background: #FF9A8B;" onclick="event.stopPropagation(); copyColor('#FF9A8B')"></div>
+                    <span class="color-hex">#FF9A8B</span>
+                </div>
+                <div class="feature-tags">
+                    <span class="feature-tag tag-light">☀️ Light</span>
+                </div>
+                <button class="apply-theme-btn" onclick="event.stopPropagation(); applyCategoryTheme('education-light', '#4A90E2', '#00A86B', '#FFF9F0', '#FF9A8B')">
+                    🎨 Apply This Theme
+                </button>
+            </div>
+        </div>
+
+        <!-- CSS Variables Preview -->
+        <h2>📋 Current Theme CSS Variables</h2>
+        
+        <div style="background: var(--tool-bg); padding: 1.5rem; border-radius: 15px; margin: 1rem 0;">
+            <pre style="background: var(--card-bg); color: var(--text-primary); padding: 1rem; border-radius: 10px; overflow-x: auto; border: 1px solid var(--border-color);" id="cssVariables">
+:root {
+    --body-bg: linear-gradient(135deg, #f5f7fa 0%, #e9ecef 100%);
+    --container-bg: white;
+    --text-primary: #2C3E50;
+    --text-secondary: #4a5568;
+    --border-color: #e2e8f0;
+    --card-bg: white;
+    --accent-primary: #4ECDC4;
+    --accent-secondary: #FF6B6B;
+    --button-bg: #667eea;
+    --tool-bg: #f7fafc;
+}</pre>
+            <button class="filter-btn" onclick="copyCSS()" style="margin-top: 1rem;">📋 Copy CSS Variables</button>
+        </div>
+    </div>
+
+    <!-- Toast notification -->
+    <div class="toast" id="toast">✨ Copied to clipboard!</div>
+
+    <script>
+        // Theme switching function
+        function setTheme(themeName) {
+            document.documentElement.setAttribute('data-theme', themeName);
+            
+            // Update active button
+            document.querySelectorAll('.theme-btn').forEach(btn => {
+                btn.classList.remove('active');
+            });
+            event.target.classList.add('active');
+            
+            // Update current theme display
+            const themeNames = {
+                'default': 'Health Light',
+                'fitness-dark': 'Fitness Dark',
+                'fintech-luxury': 'Fintech Luxury',
+                'nav-dark': 'Navigation Dark',
+                'ecommerce-luxury': 'E-commerce Luxury'
+            };
+            document.getElementById('currentTheme').textContent = `Current: ${themeNames[themeName] || themeName}`;
+            
+            // Update CSS preview
+            updateCSSPreview(themeName);
+            showToast(`Theme changed to ${themeNames[themeName]}`);
+        }
+
+        // Apply theme from category card
+        function applyCategoryTheme(themeName, primary, secondary, background, accent) {
+            // Create a unique theme
+            const style = document.createElement('style');
+            style.textContent = `
+                [data-theme="${themeName}"] {
+                    --body-bg: linear-gradient(135deg, ${primary}20 0%, ${background} 100%);
+                    --container-bg: ${background};
+                    --text-primary: ${secondary};
+                    --text-secondary: ${primary};
+                    --border-color: ${primary}40;
+                    --card-bg: ${background === '#FFFFFF' ? 'white' : '#1a1a1a'};
+                    --accent-primary: ${primary};
+                    --accent-secondary: ${accent};
+                    --button-bg: ${primary};
+                    --tool-bg: ${background}20;
+                }
+            `;
+            document.head.appendChild(style);
+            
+            // Apply the theme
+            document.documentElement.setAttribute('data-theme', themeName);
+            document.getElementById('currentTheme').textContent = `Current: ${themeName.replace('-', ' ')}`;
+            
+            // Update CSS preview
+            updateCustomCSSPreview(primary, secondary, background, accent);
+            showToast(`Theme applied!`);
+        }
+
+        // Update CSS preview for custom themes
+        function updateCustomCSSPreview(primary, secondary, background, accent) {
+            const cssPreview = document.getElementById('cssVariables');
+            cssPreview.textContent = `:root {
+    --primary: ${primary};
+    --secondary: ${secondary};
+    --background: ${background};
+    --accent: ${accent};
+    --text-primary: ${secondary};
+    --text-secondary: ${primary};
+    --border-color: ${primary}40;
+    --card-bg: ${background === '#FFFFFF' ? 'white' : '#1a1a1a'};
+    --button-bg: ${primary};
+    --accent-primary: ${primary};
+    --accent-secondary: ${accent};
+}`;
+        }
+
+        // Update CSS preview based on theme
+        function updateCSSPreview(themeName) {
+            const cssPreview = document.getElementById('cssVariables');
+            const themes = {
+                'default': `:root {
+    --body-bg: linear-gradient(135deg, #f5f7fa 0%, #e9ecef 100%);
+    --container-bg: white;
+    --text-primary: #2C3E50;
+    --text-secondary: #4a5568;
+    --border-color: #e2e8f0;
+    --card-bg: white;
+    --accent-primary: #4ECDC4;
+    --accent-secondary: #FF6B6B;
+    --button-bg: #667eea;
+    --tool-bg: #f7fafc;
+}`,
+                'fitness-dark': `:root {
+    --body-bg: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+    --container-bg: #1e1e2f;
+    --text-primary: #e0e0e0;
+    --text-secondary: #a0a0a0;
+    --border-color: #2d3748;
+    --card-bg: #2a2a3a;
+    --accent-primary: #FF6B4A;
+    --accent-secondary: #BFFF00;
+    --button-bg: #FF6B4A;
+    --tool-bg: #2d2d3d;
+}`,
+                'fintech-luxury': `:root {
+    --body-bg: linear-gradient(135deg, #0A2342 0%, #1a1a2e 100%);
+    --container-bg: #0A0A0A;
+    --text-primary: #E5E4E2;
+    --text-secondary: #C0C0C0;
+    --border-color: #D4AF37;
+    --card-bg: #000000;
+    --accent-primary: #D4AF37;
+    --accent-secondary: #4A90E2;
+    --button-bg: #D4AF37;
+    --tool-bg: #1a1a1a;
+}`
+            };
+            cssPreview.textContent = themes[themeName] || themes['default'];
+        }
+
+        // Copy color function
+        function copyColor(hex) {
+            navigator.clipboard.writeText(hex).then(() => {
+                showToast(`📋 Copied ${hex}`);
+            });
+        }
+
+        // Copy CSS variables
+        function copyCSS() {
+            const css = document.getElementById('cssVariables').textContent;
+            navigator.clipboard.writeText(css).then(() => {
+                showToast('✨ CSS variables copied!');
+            });
+        }
+
+        // Copy palette
+        function copyPalette() {
+            const colors = document.querySelectorAll('.gen-color');
+            let palette = '';
+            colors.forEach(color => {
+                palette += color.getAttribute('data-color') + ' ';
+            });
+            navigator.clipboard.writeText(palette.trim()).then(() => {
+                showToast('✨ Palette copied!');
+            });
+        }
+
+        // Show toast
+        function showToast(message) {
+            const toast = document.getElementById('toast');
+            toast.style.display = 'block';
+            toast.textContent = message;
+            
+            setTimeout(() => {
+                toast.style.display = 'none';
+            }, 2000);
+        }
+
+        // Search functionality
+        document.getElementById('searchInput').addEventListener('input', function(e) {
+            const searchTerm = e.target.value.toLowerCase();
+            const cards = document.querySelectorAll('.category-card');
+            
+            cards.forEach(card => {
+                const title = card.querySelector('.category-title').textContent.toLowerCase();
+                if (title.includes(searchTerm)) {
+                    card.style.display = 'block';
+                } else {
+                    card.style.display = 'none';
+                }
+            });
+        });
+
+        // Filter buttons
+        document.querySelectorAll('.filter-btn[data-filter]').forEach(btn => {
+            btn.addEventListener('click', function() {
+                document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+                this.classList.add('active');
+                
+                const filter = this.dataset.filter;
+                const cards = document.querySelectorAll('.category-card');
+                
+                cards.forEach(card => {
+                    if (filter === 'all') {
+                        card.style.display = 'block';
+                    } else {
+                        const categories = card.dataset.category;
+                        if (categories && categories.includes(filter)) {
+                            card.style.display = 'block';
+                        } else {
+                            card.style.display = 'none';
+                        }
+                    }
+                });
+            });
+        });
+
+        // Color contrast checker
+        function hexToRgb(hex) {
+            const result = /^#?([a-f\d]{2})([a-f\d]{2})([a-f\d]{2})$/i.exec(hex);
+            return result ? {
+                r: parseInt(result[1], 16),
+                g: parseInt(result[2], 16),
+                b: parseInt(result[3], 16)
+            } : null;
+        }
+
+        function luminance(r, g, b) {
+            const a = [r, g, b].map(v => {
+                v /= 255;
+                return v <= 0.03928 ? v / 12.92 : Math.pow((v + 0.055) / 1.055, 2.4);
+            });
+            return a[0] * 0.2126 + a[1] * 0.7152 + a[2] * 0.0722;
+        }
+
+        function contrastRatio(color1, color2) {
+            const rgb1 = hexToRgb(color1);
+            const rgb2 = hexToRgb(color2);
+            
+            if (!rgb1 || !rgb2) return 0;
+            
+            const l1 = luminance(rgb1.r, rgb1.g, rgb1.b);
+            const l2 = luminance(rgb2.r, rgb2.g, rgb2.b);
+            
+            const lighter = Math.max(l1, l2);
+            const darker = Math.min(l1, l2);
+            
+            return ((lighter + 0.05) / (darker + 0.05)).toFixed(2);
+        }
+
+        // Update contrast checker
+        function updateContrast() {
+            const fg = document.getElementById('fgText').value;
+            const bg = document.getElementById('bgText').value;
+            
+            document.getElementById('fgPreview').style.background = fg;
+            document.getElementById('bgPreview').style.background = bg;
+            document.getElementById('previewText').style.color = fg;
+            document.getElementById('previewText').style.background = bg;
+            
+            const ratio = contrastRatio(fg, bg);
+            document.getElementById('contrastRatio').textContent = `${ratio}:1`;
+            
+            // Update badges
+            const aaa = document.getElementById('aaaBadge');
+            const aa = document.getElementById('aaBadge');
+            const aaLarge = document.getElementById('aalargeBadge');
+            
+            if (ratio >= 7) {
+                aaa.style.opacity = '1';
+                aa.style.opacity = '1';
+                aaLarge.style.opacity = '1';
+            } else if (ratio >= 4.5) {
+                aaa.style.opacity = '0.3';
+                aa.style.opacity = '1';
+                aaLarge.style.opacity = '1';
+            } else if (ratio >= 3) {
+                aaa.style.opacity = '0.3';
+                aa.style.opacity = '0.3';
+                aaLarge.style.opacity = '1';
+            } else {
+                aaa.style.opacity = '0.3';
+                aa.style.opacity = '0.3';
+                aaLarge.style.opacity = '0.3';
+            }
+        }
+
+        // Color picker listeners
+        document.getElementById('fgColor').addEventListener('input', function(e) {
+            document.getElementById('fgText').value = e.target.value;
+            updateContrast();
+        });
+
+        document.getElementById('bgColor').addEventListener('input', function(e) {
+            document.getElementById('bgText').value = e.target.value;
+            updateContrast();
+        });
+
+        document.getElementById('fgText').addEventListener('input', updateContrast);
+        document.getElementById('bgText').addEventListener('input', updateContrast);
+
+        // Palette generator
+        let currentHarmony = 'monochromatic';
+
+        function setHarmony(harmony) {
+            currentHarmony = harmony;
+            document.querySelectorAll('.harmony-btn').forEach(btn => {
+                btn.classList.remove('active');
+                if (btn.textContent.includes(harmony)) {
+                    btn.classList.add('active');
+                }
+            });
+            generatePalette();
+        }
+
+        function generatePalette() {
+            const baseColor = document.getElementById('baseText').value;
+            document.getElementById('basePreview').style.background = baseColor;
+            
+            // Simple palette generation logic
+            const colors = [];
+            const base = hexToRgb(baseColor);
+            
+            if (!base) return;
+            
+            for (let i = 0; i < 5; i++) {
+                let color;
+                switch(currentHarmony) {
+                    case 'monochromatic':
+                        const lightness = 20 + (i * 15);
+                        color = `hsl(${getHue(base)}, 70%, ${lightness}%)`;
+                        break;
+                    case 'complementary':
+                        const hue = (getHue(base) + (i * 180)) % 360;
+                        color = `hsl(${hue}, 70%, 50%)`;
+                        break;
+                    case 'triadic':
+                        const triHue = (getHue(base) + (i * 120)) % 360;
+                        color = `hsl(${triHue}, 70%, 50%)`;
+                        break;
+                    case 'analogous':
+                        const anaHue = (getHue(base) - 30 + (i * 15)) % 360;
+                        color = `hsl(${anaHue}, 70%, 50%)`;
+                        break;
+                }
+                colors.push(color);
+            }
+            
+            const container = document.getElementById('generatedPalette');
+            container.innerHTML = '';
+            colors.forEach(color => {
+                const div = document.createElement('div');
+                div.className = 'gen-color';
+                div.style.background = color;
+                div.setAttribute('data-color', color);
+                div.onclick = () => copyColor(color);
+                container.appendChild(div);
+            });
+        }
+
+        function getHue(rgb) {
+            const r = rgb.r / 255;
+            const g = rgb.g / 255;
+            const b = rgb.b / 255;
+            
+            const max = Math.max(r, g, b);
+            const min = Math.min(r, g, b);
+            let h;
+            
+            if (max === min) {
+                h = 0;
+            } else if (max === r) {
+                h = 60 * ((g - b) / (max - min));
+            } else if (max === g) {
+                h = 60 * (2 + (b - r) / (max - min));
+            } else {
+                h = 60 * (4 + (r - g) / (max - min));
+            }
+            
+            if (h < 0) h += 360;
+            return Math.round(h);
+        }
+
+        // Initialize
+        document.getElementById('fgColor').value = '#2C3E50';
+        document.getElementById('bgColor').value = '#FFFFFF';
+        updateContrast();
+        generatePalette();
+
+        // Keyboard shortcut
+        document.addEventListener('keydown', function(e) {
+            if ((e.ctrlKey || e.metaKey) && e.key === 'k') {
+                e.preventDefault();
+                document.getElementById('searchInput').focus();
+            }
+        });
+    </script>
+</body>
+</html>
