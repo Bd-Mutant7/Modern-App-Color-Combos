@@ -1,0 +1,35 @@
+{
+  "name": "modern-app-color-combos",
+  "version": "1.0.0",
+  "description": "Research-backed color combinations for modern app development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Testing color accessibility...\"",
+    "validate": "node scripts/validate-colors.js",
+    "generate-swatches": "node scripts/generate-swatches.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bd-Mutant7/Modern-App-Color-Combos.git"
+  },
+  "keywords": [
+    "color-palette",
+    "ui-design",
+    "app-development",
+    "dark-mode",
+    "accessibility",
+    "color-psychology",
+    "ux-design"
+  ],
+  "author": "Bd-Mutant7",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bd-Mutant7/Modern-App-Color-Combos/issues"
+  },
+  "homepage": "https://github.com/Bd-Mutant7/Modern-App-Color-Combos#readme",
+  "devDependencies": {
+    "markdownlint-cli": "^0.35.0",
+    "prettier": "^3.0.0",
+    "color-contrast-checker": "^2.1.0"
+  }
+}
