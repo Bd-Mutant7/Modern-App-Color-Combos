@@ -96,6 +96,7 @@ cd Modern-App-Color-Combos/health  # or fitness, fintech, etc.
 | 🍔 **Food & Drink** | <code>#FF6B4A</code> <img src="https://via.placeholder.com/15/FF6B4A/FFFFFF?text=+" width="15" height="15"> <code>#8B5A2B</code> <img src="https://via.placeholder.com/15/8B5A2B/FFFFFF?text=+" width="15" height="15"> <code>#FFF9F0</code> <img src="https://via.placeholder.com/15/FFF9F0/000000?text=+" width="15" height="15"> | ✅ | ✅ |
 
 </div>
+
 ## 🎯 Quick Implementation Guide
 
 ```css
