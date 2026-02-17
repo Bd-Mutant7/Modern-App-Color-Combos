@@ -660,8 +660,8 @@ const wcagCompliant = true;
 | Willingness to Pay | $4.99 | $12.99 | 💎 160% |
 
 | 🌍 Countries | 24 |
-| ⏱️ Test Duration | 6 months |
-| 🎯 Confidence | 95% |
+ ⏱️ Test Duration | 6 months |
+ 🎯 Confidence | 95% |
   
 </div>
 
@@ -735,8 +735,9 @@ If this guide helps you, please consider:
   <h3>Built with ❤️ for the developer community</h3>
   <p>Helping you create beautiful, accessible, and engaging apps</p>
   
-  [![GitHub](https://img.shields.io/badge/GitHub-Bd--Mutant7-4ECDC4?style=for-the-badge&logo=github)](https://github.com/Bd-Mutant7)
-  [![Email](https://img.shields.io/badge/Email-spicezke%40gmail.com-4ECDC4?style=for-the-badge&logo=gmail)](mailto:spicezke@gmail.com)
+[![GitHub](https://img.shields.io/badge/-4ECDC4?style=for-the-badge&logo=github)](https://github.com/Bd-Mutant7)
+[![Email](https://img.shields.io/badge/-4ECDC4?style=for-the-badge&logo=gmail)](mailto:spicezke@gmail.com)
+
   
   <br>
   
