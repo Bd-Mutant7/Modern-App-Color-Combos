@@ -563,7 +563,6 @@ const wcagCompliant = true;
 
 ### 📊 Category Performance Matrix
 
-```markdown
 ## 🧪 A/B Testing Results
 
 <div align="center">
@@ -574,6 +573,8 @@ const wcagCompliant = true;
 
 ### 📊 Category Performance Matrix
 
+
+```markdown
 | Category | Conversion Lift | User Preference | Retention Impact | Engagement Rate |
 |----------|----------------|-----------------|------------------|-----------------|
 | 🏥 **Health** | `+23%` 📈 | `78%` 👍 | `+15%` 🔄 | `67%` ⭐ |
@@ -586,8 +587,12 @@ const wcagCompliant = true;
 | 🌾 **Farming** | `+21%` 📈 | `77%` 👍 | `+19%` 🔄 | `58%` ⭐ |
 | 🤝 **Social** | `+29%` 📈 | `84%` 👍 | `+31%` 🔄 | `86%` ⭐ |
 | 📊 **Productivity** | `+16%` 📈 | `69%` 👍 | `+21%` 🔄 | `72%` ⭐ |
+```
 
 ### 🎯 Best Performing Combos by Goal
+
+
+```markdown
 
 | Goal | Best Color Combo | Lift |
 |------|-----------------|------|
@@ -597,9 +602,12 @@ const wcagCompliant = true;
 | User Retention | Teal + Mint | +28% |
 | Click-Through | Orange + White | +31% |
 | Readability | Black + White | +43% |
+```
 
 ### 📈 Dark Mode vs Light Mode
 
+
+```markdown
 | Metric | Dark Mode | Light Mode | Winner |
 |--------|-----------|------------|--------|
 | User Preference (2026) | 67% | 33% | 🌙 Dark |
@@ -608,17 +616,20 @@ const wcagCompliant = true;
 | Night Usage Time | +28% | -12% | 🌙 Dark |
 | Daylight Readability | -8% | +15% | ☀️ Light |
 | Color Accuracy | -12% | +22% | ☀️ Light |
-
+```
 ### 💎 Luxury Theme Impact
 
+
+```markdown
 | Metric | Standard | Luxury | Improvement |
 |--------|----------|--------|-------------|
 | Engagement | 100% | +34% | 🚀 34% |
 | Premium Upgrades | 3.1% | 8.9% | 💰 187% |
 | Willingness to Pay | $4.99 | $12.99 | 💎 160% |
-
+```
 ### 🎨 Color Impact Summary
 
+```markdown
 | Color | Emotional Response | Conversion Lift |
 |-------|-------------------|-----------------|
 | 🔵 Blue | Trust, Security | +24% |
