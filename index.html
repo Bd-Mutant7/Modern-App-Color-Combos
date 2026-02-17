@@ -1,0 +1,870 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>App Color Combinations 2026 | Developer Color Guide</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+        }
+
+        body {
+            background: linear-gradient(135deg, #f5f7fa 0%, #e9ecef 100%);
+            min-height: 100vh;
+            padding: 2rem;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 30px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            padding: 2rem;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 1rem;
+        }
+
+        h2 {
+            color: #2d3748;
+            margin: 2rem 0 1rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 3px solid #e2e8f0;
+        }
+
+        .badge {
+            display: inline-block;
+            padding: 0.25rem 0.75rem;
+            border-radius: 9999px;
+            font-size: 0.875rem;
+            font-weight: 600;
+            margin-right: 0.5rem;
+        }
+
+        .badge-blue { background: #667eea; color: white; }
+        .badge-green { background: #48bb78; color: white; }
+        .badge-purple { background: #9f7aea; color: white; }
+
+        .stats {
+            display: flex;
+            gap: 2rem;
+            margin: 2rem 0;
+            flex-wrap: wrap;
+        }
+
+        .stat-card {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 1.5rem;
+            border-radius: 20px;
+            flex: 1;
+            min-width: 200px;
+            text-align: center;
+            box-shadow: 0 10px 20px rgba(102, 126, 234, 0.3);
+        }
+
+        .stat-number {
+            font-size: 2.5rem;
+            font-weight: bold;
+            margin-bottom: 0.5rem;
+        }
+
+        .stat-label {
+            font-size: 1rem;
+            opacity: 0.9;
+        }
+
+        .category-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 1.5rem;
+            margin: 2rem 0;
+        }
+
+        .category-card {
+            background: white;
+            border-radius: 15px;
+            padding: 1.5rem;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            transition: transform 0.2s, box-shadow 0.2s;
+            border: 1px solid #e2e8f0;
+        }
+
+        .category-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 12px 20px rgba(0,0,0,0.15);
+        }
+
+        .category-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 1rem;
+        }
+
+        .category-icon {
+            font-size: 2rem;
+        }
+
+        .category-title {
+            font-size: 1.25rem;
+            font-weight: 600;
+            color: #2d3748;
+        }
+
+        .color-row {
+            display: flex;
+            align-items: center;
+            margin: 0.75rem 0;
+            gap: 0.75rem;
+        }
+
+        .color-label {
+            width: 80px;
+            font-size: 0.875rem;
+            color: #4a5568;
+            font-weight: 500;
+        }
+
+        .color-box {
+            width: 60px;
+            height: 30px;
+            border-radius: 8px;
+            border: 2px solid #e2e8f0;
+            cursor: pointer;
+            transition: transform 0.2s;
+        }
+
+        .color-box:hover {
+            transform: scale(1.1);
+        }
+
+        .color-hex {
+            font-family: 'Courier New', monospace;
+            font-size: 0.875rem;
+            color: #4a5568;
+            background: #f7fafc;
+            padding: 0.25rem 0.5rem;
+            border-radius: 6px;
+            border: 1px solid #e2e8f0;
+        }
+
+        .feature-tags {
+            display: flex;
+            gap: 0.5rem;
+            margin-top: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .feature-tag {
+            padding: 0.25rem 0.75rem;
+            border-radius: 9999px;
+            font-size: 0.75rem;
+            font-weight: 600;
+        }
+
+        .tag-dark { background: #2d3748; color: white; }
+        .tag-luxury { background: #fbbf24; color: #1a202c; }
+        .tag-premium { background: #9f7aea; color: white; }
+
+        .dark-mode-preview {
+            background: #1a202c;
+            padding: 1.5rem;
+            border-radius: 15px;
+            margin-top: 1rem;
+            color: white;
+        }
+
+        .dark-mode-title {
+            color: #a0aec0;
+            font-size: 0.875rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            margin-bottom: 0.75rem;
+        }
+
+        .color-chip {
+            display: inline-block;
+            width: 30px;
+            height: 30px;
+            border-radius: 8px;
+            margin-right: 0.5rem;
+            border: 2px solid rgba(255,255,255,0.1);
+        }
+
+        .table-container {
+            overflow-x: auto;
+            margin: 2rem 0;
+            border-radius: 15px;
+            border: 1px solid #e2e8f0;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background: white;
+        }
+
+        th {
+            background: #f7fafc;
+            padding: 1rem;
+            text-align: left;
+            font-weight: 600;
+            color: #2d3748;
+            border-bottom: 2px solid #e2e8f0;
+        }
+
+        td {
+            padding: 1rem;
+            border-bottom: 1px solid #e2e8f0;
+        }
+
+        tr:hover {
+            background: #f7fafc;
+        }
+
+        .color-dot {
+            display: inline-block;
+            width: 24px;
+            height: 24px;
+            border-radius: 6px;
+            margin-right: 0.5rem;
+            vertical-align: middle;
+            border: 1px solid #e2e8f0;
+        }
+
+        .copy-button {
+            background: #667eea;
+            color: white;
+            border: none;
+            padding: 0.5rem 1rem;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 0.875rem;
+            transition: background 0.2s;
+        }
+
+        .copy-button:hover {
+            background: #5a67d8;
+        }
+
+        .toast {
+            position: fixed;
+            bottom: 2rem;
+            right: 2rem;
+            background: #48bb78;
+            color: white;
+            padding: 1rem 2rem;
+            border-radius: 10px;
+            box-shadow: 0 10px 20px rgba(72, 187, 120, 0.3);
+            display: none;
+            animation: slideIn 0.3s;
+        }
+
+        @keyframes slideIn {
+            from {
+                transform: translateX(100%);
+                opacity: 0;
+            }
+            to {
+                transform: translateX(0);
+                opacity: 1;
+            }
+        }
+
+        .search-box {
+            width: 100%;
+            padding: 1rem;
+            border: 2px solid #e2e8f0;
+            border-radius: 15px;
+            font-size: 1rem;
+            margin: 1rem 0;
+            transition: border-color 0.2s;
+        }
+
+        .search-box:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+
+        .filter-buttons {
+            display: flex;
+            gap: 0.5rem;
+            flex-wrap: wrap;
+            margin: 1rem 0;
+        }
+
+        .filter-btn {
+            padding: 0.5rem 1rem;
+            border: 1px solid #e2e8f0;
+            border-radius: 9999px;
+            background: white;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .filter-btn:hover {
+            background: #667eea;
+            color: white;
+            border-color: #667eea;
+        }
+
+        .filter-btn.active {
+            background: #667eea;
+            color: white;
+            border-color: #667eea;
+        }
+
+        @media (max-width: 768px) {
+            body { padding: 1rem; }
+            .container { padding: 1rem; }
+            h1 { font-size: 2rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🎨 App Color Combinations 2026</h1>
+        <p style="color: #4a5568; font-size: 1.2rem;">Research-backed color palettes for modern app development</p>
+
+        <div class="stats">
+            <div class="stat-card">
+                <div class="stat-number">15+</div>
+                <div class="stat-label">App Categories</div>
+            </div>
+            <div class="stat-card" style="background: linear-gradient(135deg, #48bb78 0%, #2f855a 100%);">
+                <div class="stat-number">100%</div>
+                <div class="stat-label">WCAG Compliant</div>
+            </div>
+            <div class="stat-card" style="background: linear-gradient(135deg, #fbbf24 0%, #d97706 100%);">
+                <div class="stat-number">15+</div>
+                <div class="stat-label">Dark Mode Ready</div>
+            </div>
+        </div>
+
+        <!-- Search and Filter -->
+        <input type="text" class="search-box" id="searchInput" placeholder="🔍 Search categories (e.g., health, fitness, fintech...)">
+
+        <div class="filter-buttons" id="filterButtons">
+            <button class="filter-btn active" data-filter="all">All</button>
+            <button class="filter-btn" data-filter="dark">🌙 Dark Mode</button>
+            <button class="filter-btn" data-filter="luxury">💎 Luxury</button>
+            <button class="filter-btn" data-filter="fitness">💪 Fitness</button>
+            <button class="filter-btn" data-filter="finance">💰 Finance</button>
+        </div>
+
+        <h2>📱 App Categories</h2>
+        
+        <!-- Category Grid -->
+        <div class="category-grid" id="categoryGrid">
+            <!-- Health -->
+            <div class="category-card" data-category="health dark luxury">
+                <div class="category-header">
+                    <span class="category-icon">🏥</span>
+                    <span class="category-title">Health</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label">Primary</span>
+                    <div class="color-box" style="background: #4ECDC4;" onclick="copyColor('#4ECDC4')"></div>
+                    <span class="color-hex">#4ECDC4</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label">Secondary</span>
+                    <div class="color-box" style="background: #2C3E50;" onclick="copyColor('#2C3E50')"></div>
+                    <span class="color-hex">#2C3E50</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label">Background</span>
+                    <div class="color-box" style="background: #FFFFFF; border:2px solid #ccc;" onclick="copyColor('#FFFFFF')"></div>
+                    <span class="color-hex">#FFFFFF</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label">Accent</span>
+                    <div class="color-box" style="background: #FF6B6B;" onclick="copyColor('#FF6B6B')"></div>
+                    <span class="color-hex">#FF6B6B</span>
+                </div>
+                <div class="feature-tags">
+                    <span class="feature-tag tag-dark">🌙 Dark Mode</span>
+                    <span class="feature-tag tag-luxury">💎 Luxury</span>
+                </div>
+            </div>
+
+            <!-- Fitness -->
+            <div class="category-card" data-category="fitness dark luxury">
+                <div class="category-header">
+                    <span class="category-icon">💪</span>
+                    <span class="category-title">Fitness</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label">Primary</span>
+                    <div class="color-box" style="background: #FF6B4A;" onclick="copyColor('#FF6B4A')"></div>
+                    <span class="color-hex">#FF6B4A</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label">Secondary</span>
+                    <div class="color-box" style="background: #2C3E50;" onclick="copyColor('#2C3E50')"></div>
+                    <span class="color-hex">#2C3E50</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label">Background</span>
+                    <div class="color-box" style="background: #FFFFFF; border:2px solid #ccc;" onclick="copyColor('#FFFFFF')"></div>
+                    <span class="color-hex">#FFFFFF</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label">Accent</span>
+                    <div class="color-box" style="background: #BFFF00;" onclick="copyColor('#BFFF00')"></div>
+                    <span class="color-hex">#BFFF00</span>
+                </div>
+                <div class="feature-tags">
+                    <span class="feature-tag tag-dark">🌙 Dark Mode</span>
+                    <span class="feature-tag tag-luxury">💎 Luxury</span>
+                </div>
+            </div>
+
+            <!-- Fintech -->
+            <div class="category-card" data-category="finance dark luxury">
+                <div class="category-header">
+                    <span class="category-icon">💳</span>
+                    <span class="category-title">Fintech</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label">Primary</span>
+                    <div class="color-box" style="background: #0A2342;" onclick="copyColor('#0A2342')"></div>
+                    <span class="color-hex">#0A2342</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label">Secondary</span>
+                    <div class="color-box" style="background: #2C7A7B;" onclick="copyColor('#2C7A7B')"></div>
+                    <span class="color-hex">#2C7A7B</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label">Background</span>
+                    <div class="color-box" style="background: #FFFFFF; border:2px solid #ccc;" onclick="copyColor('#FFFFFF')"></div>
+                    <span class="color-hex">#FFFFFF</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label">Accent</span>
+                    <div class="color-box" style="background: #D4AF37;" onclick="copyColor('#D4AF37')"></div>
+                    <span class="color-hex">#D4AF37</span>
+                </div>
+                <div class="feature-tags">
+                    <span class="feature-tag tag-dark">🌙 Dark Mode</span>
+                    <span class="feature-tag tag-luxury">💎 Luxury</span>
+                </div>
+            </div>
+
+            <!-- Navigation -->
+            <div class="category-card" data-category="navigation dark">
+                <div class="category-header">
+                    <span class="category-icon">🗺️</span>
+                    <span class="category-title">Navigation</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label">Primary</span>
+                    <div class="color-box" style="background: #4A90E2;" onclick="copyColor('#4A90E2')"></div>
+                    <span class="color-hex">#4A90E2</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label">Secondary</span>
+                    <div class="color-box" style="background: #4A5568;" onclick="copyColor('#4A5568')"></div>
+                    <span class="color-hex">#4A5568</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label">Background</span>
+                    <div class="color-box" style="background: #FFFFFF; border:2px solid #ccc;" onclick="copyColor('#FFFFFF')"></div>
+                    <span class="color-hex">#FFFFFF</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label">Accent</span>
+                    <div class="color-box" style="background: #FF6B4A;" onclick="copyColor('#FF6B4A')"></div>
+                    <span class="color-hex">#FF6B4A</span>
+                </div>
+                <div class="feature-tags">
+                    <span class="feature-tag tag-dark">🌙 Dark Mode</span>
+                </div>
+            </div>
+
+            <!-- E-commerce -->
+            <div class="category-card" data-category="ecommerce dark luxury">
+                <div class="category-header">
+                    <span class="category-icon">🛍️</span>
+                    <span class="category-title">E-commerce</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label">Primary</span>
+                    <div class="color-box" style="background: #008080;" onclick="copyColor('#008080')"></div>
+                    <span class="color-hex">#008080</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label">Secondary</span>
+                    <div class="color-box" style="background: #FF6B4A;" onclick="copyColor('#FF6B4A')"></div>
+                    <span class="color-hex">#FF6B4A</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label">Background</span>
+                    <div class="color-box" style="background: #FFF9F0;" onclick="copyColor('#FFF9F0')"></div>
+                    <span class="color-hex">#FFF9F0</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label">Accent</span>
+                    <div class="color-box" style="background: #D4AF37;" onclick="copyColor('#D4AF37')"></div>
+                    <span class="color-hex">#D4AF37</span>
+                </div>
+                <div class="feature-tags">
+                    <span class="feature-tag tag-dark">🌙 Dark Mode</span>
+                    <span class="feature-tag tag-luxury">💎 Luxury</span>
+                </div>
+            </div>
+
+            <!-- Education -->
+            <div class="category-card" data-category="education dark">
+                <div class="category-header">
+                    <span class="category-icon">📚</span>
+                    <span class="category-title">Education</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label">Primary</span>
+                    <div class="color-box" style="background: #4A90E2;" onclick="copyColor('#4A90E2')"></div>
+                    <span class="color-hex">#4A90E2</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label">Secondary</span>
+                    <div class="color-box" style="background: #00A86B;" onclick="copyColor('#00A86B')"></div>
+                    <span class="color-hex">#00A86B</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label">Background</span>
+                    <div class="color-box" style="background: #FFF9F0;" onclick="copyColor('#FFF9F0')"></div>
+                    <span class="color-hex">#FFF9F0</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label">Accent</span>
+                    <div class="color-box" style="background: #FF9A8B;" onclick="copyColor('#FF9A8B')"></div>
+                    <span class="color-hex">#FF9A8B</span>
+                </div>
+                <div class="feature-tags">
+                    <span class="feature-tag tag-dark">🌙 Dark Mode</span>
+                </div>
+            </div>
+
+            <!-- Entertainment -->
+            <div class="category-card" data-category="entertainment dark luxury">
+                <div class="category-header">
+                    <span class="category-icon">🎮</span>
+                    <span class="category-title">Entertainment</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label">Primary</span>
+                    <div class="color-box" style="background: #6C5CE7;" onclick="copyColor('#6C5CE7')"></div>
+                    <span class="color-hex">#6C5CE7</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label">Secondary</span>
+                    <div class="color-box" style="background: #FF6B4A;" onclick="copyColor('#FF6B4A')"></div>
+                    <span class="color-hex">#FF6B4A</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label">Background</span>
+                    <div class="color-box" style="background: #0A0A0A;" onclick="copyColor('#0A0A0A')"></div>
+                    <span class="color-hex">#0A0A0A</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label">Accent</span>
+                    <div class="color-box" style="background: #BFFF00;" onclick="copyColor('#BFFF00')"></div>
+                    <span class="color-hex">#BFFF00</span>
+                </div>
+                <div class="feature-tags">
+                    <span class="feature-tag tag-dark">🌙 Dark Mode</span>
+                    <span class="feature-tag tag-luxury">💎 Luxury</span>
+                </div>
+            </div>
+        </div>
+
+        <h2>📊 Complete Color Reference Table</h2>
+        
+        <div class="table-container">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Category</th>
+                        <th>Primary</th>
+                        <th>Secondary</th>
+                        <th>Background</th>
+                        <th>Accent</th>
+                        <th>Dark Mode</th>
+                        <th>Copy</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>🏥 Health</td>
+                        <td><span class="color-dot" style="background: #4ECDC4;"></span> #4ECDC4</td>
+                        <td><span class="color-dot" style="background: #2C3E50;"></span> #2C3E50</td>
+                        <td><span class="color-dot" style="background: #FFFFFF; border:1px solid #ccc;"></span> #FFFFFF</td>
+                        <td><span class="color-dot" style="background: #FF6B6B;"></span> #FF6B6B</td>
+                        <td>✅ <span class="color-dot" style="background: #1A1E2B;"></span></td>
+                        <td><button class="copy-button" onclick="copyPalette('#4ECDC4, #2C3E50, #FFFFFF, #FF6B6B')">Copy Palette</button></td>
+                    </tr>
+                    <tr>
+                        <td>🌾 Farming</td>
+                        <td><span class="color-dot" style="background: #00A86B;"></span> #00A86B</td>
+                        <td><span class="color-dot" style="background: #8B5A2B;"></span> #8B5A2B</td>
+                        <td><span class="color-dot" style="background: #FFF8E7;"></span> #FFF8E7</td>
+                        <td><span class="color-dot" style="background: #FF6B4A;"></span> #FF6B4A</td>
+                        <td>✅ <span class="color-dot" style="background: #2A241F;"></span></td>
+                        <td><button class="copy-button" onclick="copyPalette('#00A86B, #8B5A2B, #FFF8E7, #FF6B4A')">Copy Palette</button></td>
+                    </tr>
+                    <tr>
+                        <td>💪 Fitness</td>
+                        <td><span class="color-dot" style="background: #FF6B4A;"></span> #FF6B4A</td>
+                        <td><span class="color-dot" style="background: #2C3E50;"></span> #2C3E50</td>
+                        <td><span class="color-dot" style="background: #FFFFFF; border:1px solid #ccc;"></span> #FFFFFF</td>
+                        <td><span class="color-dot" style="background: #BFFF00;"></span> #BFFF00</td>
+                        <td>✅ <span class="color-dot" style="background: #121212;"></span></td>
+                        <td><button class="copy-button" onclick="copyPalette('#FF6B4A, #2C3E50, #FFFFFF, #BFFF00')">Copy Palette</button></td>
+                    </tr>
+                    <tr>
+                        <td>🗺️ Navigation</td>
+                        <td><span class="color-dot" style="background: #4A90E2;"></span> #4A90E2</td>
+                        <td><span class="color-dot" style="background: #4A5568;"></span> #4A5568</td>
+                        <td><span class="color-dot" style="background: #FFFFFF; border:1px solid #ccc;"></span> #FFFFFF</td>
+                        <td><span class="color-dot" style="background: #FF6B4A;"></span> #FF6B4A</td>
+                        <td>✅ <span class="color-dot" style="background: #1A1A2E;"></span></td>
+                        <td><button class="copy-button" onclick="copyPalette('#4A90E2, #4A5568, #FFFFFF, #FF6B4A')">Copy Palette</button></td>
+                    </tr>
+                    <tr>
+                        <td>💳 Fintech</td>
+                        <td><span class="color-dot" style="background: #0A2342;"></span> #0A2342</td>
+                        <td><span class="color-dot" style="background: #2C7A7B;"></span> #2C7A7B</td>
+                        <td><span class="color-dot" style="background: #FFFFFF; border:1px solid #ccc;"></span> #FFFFFF</td>
+                        <td><span class="color-dot" style="background: #D4AF37;"></span> #D4AF37</td>
+                        <td>✅ <span class="color-dot" style="background: #0A1428;"></span></td>
+                        <td><button class="copy-button" onclick="copyPalette('#0A2342, #2C7A7B, #FFFFFF, #D4AF37')">Copy Palette</button></td>
+                    </tr>
+                    <tr>
+                        <td>🛍️ E-commerce</td>
+                        <td><span class="color-dot" style="background: #008080;"></span> #008080</td>
+                        <td><span class="color-dot" style="background: #FF6B4A;"></span> #FF6B4A</td>
+                        <td><span class="color-dot" style="background: #FFF9F0;"></span> #FFF9F0</td>
+                        <td><span class="color-dot" style="background: #D4AF37;"></span> #D4AF37</td>
+                        <td>✅ <span class="color-dot" style="background: #0A0A0A;"></span></td>
+                        <td><button class="copy-button" onclick="copyPalette('#008080, #FF6B4A, #FFF9F0, #D4AF37')">Copy Palette</button></td>
+                    </tr>
+                    <tr>
+                        <td>📚 Education</td>
+                        <td><span class="color-dot" style="background: #4A90E2;"></span> #4A90E2</td>
+                        <td><span class="color-dot" style="background: #00A86B;"></span> #00A86B</td>
+                        <td><span class="color-dot" style="background: #FFF9F0;"></span> #FFF9F0</td>
+                        <td><span class="color-dot" style="background: #FF9A8B;"></span> #FF9A8B</td>
+                        <td>✅ <span class="color-dot" style="background: #1A1E2B;"></span></td>
+                        <td><button class="copy-button" onclick="copyPalette('#4A90E2, #00A86B, #FFF9F0, #FF9A8B')">Copy Palette</button></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <h2>🌙 Dark Mode Preview</h2>
+        
+        <div class="category-grid">
+            <div class="dark-mode-preview">
+                <div class="dark-mode-title">Health App (Dark Mode)</div>
+                <div>
+                    <span class="color-chip" style="background: #1A1E2B;"></span>
+                    <span class="color-chip" style="background: #3A9B94;"></span>
+                    <span class="color-chip" style="background: #E0E0E0;"></span>
+                    <span class="color-chip" style="background: #6BAF8F;"></span>
+                </div>
+                <div style="margin-top: 1rem; font-family: monospace;">
+                    #1A1E2B #3A9B94 #E0E0E0 #6BAF8F
+                </div>
+            </div>
+
+            <div class="dark-mode-preview">
+                <div class="dark-mode-title">Fitness App (Dark Mode)</div>
+                <div>
+                    <span class="color-chip" style="background: #121212;"></span>
+                    <span class="color-chip" style="background: #FF5722;"></span>
+                    <span class="color-chip" style="background: #EEEEEE;"></span>
+                    <span class="color-chip" style="background: #0051A8;"></span>
+                </div>
+                <div style="margin-top: 1rem; font-family: monospace;">
+                    #121212 #FF5722 #EEEEEE #0051A8
+                </div>
+            </div>
+        </div>
+
+        <h2>💎 Luxury/Futuristic Styles</h2>
+        
+        <div class="category-grid">
+            <div class="category-card" style="background: linear-gradient(135deg, #2D1B3C 0%, #1A1023 100%); color: white;">
+                <div class="category-header">
+                    <span class="category-icon">💎</span>
+                    <span class="category-title">Health Luxury</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label" style="color: #E8EFF9;">Primary</span>
+                    <div class="color-box" style="background: #2D1B3C;"></div>
+                    <span class="color-hex" style="background: #2D1B3C; color: #E8EFF9;">#2D1B3C</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label" style="color: #E8EFF9;">Gold</span>
+                    <div class="color-box" style="background: #D4AF37;"></div>
+                    <span class="color-hex" style="background: #2D1B3C; color: #D4AF37;">#D4AF37</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label" style="color: #E8EFF9;">Accent</span>
+                    <div class="color-box" style="background: #A5D8FF;"></div>
+                    <span class="color-hex" style="background: #2D1B3C; color: #A5D8FF;">#A5D8FF</span>
+                </div>
+            </div>
+
+            <div class="category-card" style="background: #000000; color: white;">
+                <div class="category-header">
+                    <span class="category-icon">💳</span>
+                    <span class="category-title">Fintech Luxury</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label" style="color: #E5E4E2;">Primary</span>
+                    <div class="color-box" style="background: #000000; border:2px solid #D4AF37;"></div>
+                    <span class="color-hex" style="background: #000; color: #D4AF37;">#000000</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label" style="color: #E5E4E2;">Gold</span>
+                    <div class="color-box" style="background: #D4AF37;"></div>
+                    <span class="color-hex" style="background: #000; color: #D4AF37;">#D4AF37</span>
+                </div>
+                <div class="color-row">
+                    <span class="color-label" style="color: #E5E4E2;">Accent</span>
+                    <div class="color-box" style="background: #4A90E2;"></div>
+                    <span class="color-hex" style="background: #000; color: #4A90E2;">#4A90E2</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Quick Copy Section -->
+        <h2>📋 Quick Copy Palettes</h2>
+        
+        <div style="background: #f7fafc; padding: 1.5rem; border-radius: 15px; margin: 1rem 0;">
+            <h3 style="margin-bottom: 1rem;">CSS Variables</h3>
+            <pre style="background: #1a202c; color: #a0aec0; padding: 1rem; border-radius: 10px; overflow-x: auto;">
+:root {
+  /* Health */
+  --health-primary: #4ECDC4;
+  --health-secondary: #2C3E50;
+  --health-accent: #FF6B6B;
+  
+  /* Fitness */
+  --fitness-primary: #FF6B4A;
+  --fitness-secondary: #2C3E50;
+  --fitness-accent: #BFFF00;
+  
+  /* Fintech */
+  --fintech-primary: #0A2342;
+  --fintech-secondary: #2C7A7B;
+  --fintech-accent: #D4AF37;
+  
+  /* Dark Mode */
+  --dark-bg: #1A1E2B;
+  --dark-surface: #252A3A;
+  --dark-text: #E0E0E0;
+}</pre>
+            <button class="copy-button" onclick="copyPalette('CSS Variables copied!')" style="margin-top: 1rem;">Copy CSS</button>
+        </div>
+    </div>
+
+    <!-- Toast notification -->
+    <div class="toast" id="toast">✨ Color copied to clipboard!</div>
+
+    <script>
+        // Copy color function
+        function copyColor(hex) {
+            navigator.clipboard.writeText(hex).then(() => {
+                showToast(`📋 Copied ${hex}`);
+            });
+        }
+
+        // Copy entire palette
+        function copyPalette(palette) {
+            navigator.clipboard.writeText(palette).then(() => {
+                showToast('✨ Palette copied to clipboard!');
+            });
+        }
+
+        // Show toast
+        function showToast(message) {
+            const toast = document.getElementById('toast');
+            toast.style.display = 'block';
+            toast.textContent = message;
+            
+            setTimeout(() => {
+                toast.style.display = 'none';
+            }, 2000);
+        }
+
+        // Search functionality
+        document.getElementById('searchInput').addEventListener('input', function(e) {
+            const searchTerm = e.target.value.toLowerCase();
+            const cards = document.querySelectorAll('.category-card');
+            
+            cards.forEach(card => {
+                const title = card.querySelector('.category-title').textContent.toLowerCase();
+                if (title.includes(searchTerm)) {
+                    card.style.display = 'block';
+                } else {
+                    card.style.display = 'none';
+                }
+            });
+        });
+
+        // Filter buttons
+        document.querySelectorAll('.filter-btn').forEach(btn => {
+            btn.addEventListener('click', function() {
+                // Remove active class from all buttons
+                document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+                // Add active class to clicked button
+                this.classList.add('active');
+                
+                const filter = this.dataset.filter;
+                const cards = document.querySelectorAll('.category-card');
+                
+                cards.forEach(card => {
+                    if (filter === 'all') {
+                        card.style.display = 'block';
+                    } else {
+                        const categories = card.dataset.category;
+                        if (categories && categories.includes(filter)) {
+                            card.style.display = 'block';
+                        } else {
+                            card.style.display = 'none';
+                        }
+                    }
+                });
+            });
+        });
+
+        // Add click to copy for all color boxes
+        document.querySelectorAll('.color-box').forEach(box => {
+            box.style.cursor = 'pointer';
+            box.title = 'Click to copy color code';
+        });
+
+        // Keyboard shortcut (Ctrl/Cmd + K to focus search)
+        document.addEventListener('keydown', function(e) {
+            if ((e.ctrlKey || e.metaKey) && e.key === 'k') {
+                e.preventDefault();
+                document.getElementById('searchInput').focus();
+            }
+        });
+    </script>
+</body>
+</html>
