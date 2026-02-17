@@ -10,7 +10,33 @@
   <h3>A curated collection of color combinations for modern app development</h3>
   <p>Research-backed, user-tested, and developer-ready color palettes for every app category</p>
   
-  <img src="https://via.placeholder.com/800x400/0A2342/FFFFFF?text=App+Color+Combinations+2026" alt="Banner" width="800"/>
+<div align="center">
+  <img src="https://via.placeholder.com/800x200/4ECDC4/FFFFFF?text=Modern+App+Color+Combos+2026" alt="Modern App Color Combinations Banner" width="800"/>
+  
+  # 🎨 Modern App Color Combinations
+  
+  ### A curated collection of color combinations for modern app development
+  
+  [![GitHub stars](https://img.shields.io/github/stars/Bd-Mutant7/Modern-App-Color-Combos?style=social)](https://github.com/Bd-Mutant7/Modern-App-Color-Combos/stargazers)
+  [![GitHub forks](https://img.shields.io/github/forks/Bd-Mutant7/Modern-App-Color-Combos?style=social)](https://github.com/Bd-Mutant7/Modern-App-Color-Combos/network/members)
+  [![GitHub issues](https://img.shields.io/github/issues/Bd-Mutant7/Modern-App-Color-Combos)](https://github.com/Bd-Mutant7/Modern-App-Color-Combos/issues)
+  [![GitHub license](https://img.shields.io/github/license/Bd-Mutant7/Modern-App-Color-Combos)](https://github.com/Bd-Mutant7/Modern-App-Color-Combos/blob/main/LICENSE)
+  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Bd-Mutant7/Modern-App-Color-Combos/pulls)
+  
+  Research-backed, user-tested, and developer-ready color palettes for every app category
+  
+  **[📖 Read the Guide](#)** • **[🎨 View Palettes](#app-categories)** • **[🤝 Contribute](CONTRIBUTING.md)**
+  
+  <br>
+  
+  | 🌟 **Stars** | 🍴 **Forks** | 🐛 **Issues** | 📥 **Contributors** |
+  |:------------:|:------------:|:-------------:|:-------------------:|
+  | 0 | 0 | 0 | 1 |
+  
+  <br>
+  
+  ---
+</div>
   
 </div>
 
@@ -37,10 +63,10 @@ Choosing the right colors for your app isn't just about aesthetics—it's about 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/app-color-combos.git
+git clone https://github.com/Bd-Mutant7/Modern-App-Color-Combos.git
 
 # Navigate to your app category
-cd app-color-combos/health  # or fitness, fintech, etc.
+cd Modern-App-Color-Combos/health  # or fitness, fintech, etc.
 
 # Copy the color palette to your project
 # Each category includes:
@@ -52,19 +78,24 @@ cd app-color-combos/health  # or fitness, fintech, etc.
 
 ## 📱 App Categories
 
-| Category | Primary Palette | Dark Mode | Luxury Style |
-|----------|----------------|-----------|--------------|
-| 🏥 Health | `#4ECDC4` ████ `#FFFFFF` ████ `#2C3E50` ████ | ✅ | ✅ |
-| 🌾 Farming | `#00A86B` ████ `#8B5A2B` ████ `#FFF8E7` ████ | ✅ | ✅ |
-| 💪 Fitness | `#FF6B4A` ████ `#2C3E50` ████ `#BFFF00` ████ | ✅ | ✅ |
-| 🗺️ Navigation | `#4A90E2` ████ `#4A5568` ████ `#FF6B4A` ████ | ✅ | ✅ |
-| 💳 Fintech | `#0A2342` ████ `#2C7A7B` ████ `#D4AF37` ████ | ✅ | ✅ |
-| 🛍️ E-commerce | `#008080` ████ `#FF6B4A` ████ `#FFF9F0` ████ | ✅ | ✅ |
-| 📚 Education | `#4A90E2` ████ `#00A86B` ████ `#FFF9F0` ████ | ✅ | ✅ |
-| 🎮 Entertainment | `#6C5CE7` ████ `#FF6B4A` ████ `#0A0A0A` ████ | ✅ | ✅ |
-| 🤝 Social | `#4A90E2` ████ `#FF6B4A` ████ `#F8F9FA` ████ | ✅ | ✅ |
-| 📊 Productivity | `#4A5568` ████ `#00A86B` ████ `#F8F9FA` ████ | ✅ | ✅ |
+<div align="center">
 
+| Category | Primary Palette | Dark Mode | Luxury Style |
+|:--------:|:---------------:|:---------:|:------------:|
+| 🏥 **Health** | <code>#4ECDC4</code> <img src="https://via.placeholder.com/15/4ECDC4/000000?text=+" width="15" height="15"> <code>#FFFFFF</code> <img src="https://via.placeholder.com/15/FFFFFF/000000?text=+" width="15" height="15"> <code>#2C3E50</code> <img src="https://via.placeholder.com/15/2C3E50/FFFFFF?text=+" width="15" height="15"> | ✅ | ✅ |
+| 🌾 **Farming** | <code>#00A86B</code> <img src="https://via.placeholder.com/15/00A86B/FFFFFF?text=+" width="15" height="15"> <code>#8B5A2B</code> <img src="https://via.placeholder.com/15/8B5A2B/FFFFFF?text=+" width="15" height="15"> <code>#FFF8E7</code> <img src="https://via.placeholder.com/15/FFF8E7/000000?text=+" width="15" height="15"> | ✅ | ✅ |
+| 💪 **Fitness** | <code>#FF6B4A</code> <img src="https://via.placeholder.com/15/FF6B4A/FFFFFF?text=+" width="15" height="15"> <code>#2C3E50</code> <img src="https://via.placeholder.com/15/2C3E50/FFFFFF?text=+" width="15" height="15"> <code>#BFFF00</code> <img src="https://via.placeholder.com/15/BFFF00/000000?text=+" width="15" height="15"> | ✅ | ✅ |
+| 🗺️ **Navigation** | <code>#4A90E2</code> <img src="https://via.placeholder.com/15/4A90E2/FFFFFF?text=+" width="15" height="15"> <code>#4A5568</code> <img src="https://via.placeholder.com/15/4A5568/FFFFFF?text=+" width="15" height="15"> <code>#FF6B4A</code> <img src="https://via.placeholder.com/15/FF6B4A/FFFFFF?text=+" width="15" height="15"> | ✅ | ✅ |
+| 💳 **Fintech** | <code>#0A2342</code> <img src="https://via.placeholder.com/15/0A2342/FFFFFF?text=+" width="15" height="15"> <code>#2C7A7B</code> <img src="https://via.placeholder.com/15/2C7A7B/FFFFFF?text=+" width="15" height="15"> <code>#D4AF37</code> <img src="https://via.placeholder.com/15/D4AF37/000000?text=+" width="15" height="15"> | ✅ | ✅ |
+| 🛍️ **E-commerce** | <code>#008080</code> <img src="https://via.placeholder.com/15/008080/FFFFFF?text=+" width="15" height="15"> <code>#FF6B4A</code> <img src="https://via.placeholder.com/15/FF6B4A/FFFFFF?text=+" width="15" height="15"> <code>#FFF9F0</code> <img src="https://via.placeholder.com/15/FFF9F0/000000?text=+" width="15" height="15"> | ✅ | ✅ |
+| 📚 **Education** | <code>#4A90E2</code> <img src="https://via.placeholder.com/15/4A90E2/FFFFFF?text=+" width="15" height="15"> <code>#00A86B</code> <img src="https://via.placeholder.com/15/00A86B/FFFFFF?text=+" width="15" height="15"> <code>#FFF9F0</code> <img src="https://via.placeholder.com/15/FFF9F0/000000?text=+" width="15" height="15"> | ✅ | ✅ |
+| 🎮 **Entertainment** | <code>#6C5CE7</code> <img src="https://via.placeholder.com/15/6C5CE7/FFFFFF?text=+" width="15" height="15"> <code>#FF6B4A</code> <img src="https://via.placeholder.com/15/FF6B4A/FFFFFF?text=+" width="15" height="15"> <code>#0A0A0A</code> <img src="https://via.placeholder.com/15/0A0A0A/FFFFFF?text=+" width="15" height="15"> | ✅ | ✅ |
+| 🤝 **Social** | <code>#4A90E2</code> <img src="https://via.placeholder.com/15/4A90E2/FFFFFF?text=+" width="15" height="15"> <code>#FF6B4A</code> <img src="https://via.placeholder.com/15/FF6B4A/FFFFFF?text=+" width="15" height="15"> <code>#F8F9FA</code> <img src="https://via.placeholder.com/15/F8F9FA/000000?text=+" width="15" height="15"> | ✅ | ✅ |
+| 📊 **Productivity** | <code>#4A5568</code> <img src="https://via.placeholder.com/15/4A5568/FFFFFF?text=+" width="15" height="15"> <code>#00A86B</code> <img src="https://via.placeholder.com/15/00A86B/FFFFFF?text=+" width="15" height="15"> <code>#F8F9FA</code> <img src="https://via.placeholder.com/15/F8F9FA/000000?text=+" width="15" height="15"> | ✅ | ✅ |
+| ✈️ **Travel** | <code>#4A90E2</code> <img src="https://via.placeholder.com/15/4A90E2/FFFFFF?text=+" width="15" height="15"> <code>#F5A623</code> <img src="https://via.placeholder.com/15/F5A623/FFFFFF?text=+" width="15" height="15"> <code>#FFFFFF</code> <img src="https://via.placeholder.com/15/FFFFFF/000000?text=+" width="15" height="15"> | ✅ | ✅ |
+| 🍔 **Food & Drink** | <code>#FF6B4A</code> <img src="https://via.placeholder.com/15/FF6B4A/FFFFFF?text=+" width="15" height="15"> <code>#8B5A2B</code> <img src="https://via.placeholder.com/15/8B5A2B/FFFFFF?text=+" width="15" height="15"> <code>#FFF9F0</code> <img src="https://via.placeholder.com/15/FFF9F0/000000?text=+" width="15" height="15"> | ✅ | ✅ |
+
+</div>
 ## 🎯 Quick Implementation Guide
 ```css
 :root {
@@ -563,73 +594,10 @@ const wcagCompliant = true;
 
 ### 📊 Category Performance Matrix
 
-## 🧪 A/B Testing Results
-
-<div align="center">
-  <i>Real performance data from 10,000+ users across 50+ production apps</i>
-</div>
-
-<br>
-
-### 📊 Category Performance Matrix
 
 
-```markdown
-| Category | Conversion Lift | User Preference | Retention Impact | Engagement Rate |
-|----------|----------------|-----------------|------------------|-----------------|
-| 🏥 **Health** | `+23%` 📈 | `78%` 👍 | `+15%` 🔄 | `67%` ⭐ |
-| 💪 **Fitness** | `+31%` 📈 | `82%` 👍 | `+22%` 🔄 | `74%` ⭐ |
-| 💳 **Fintech** | `+18%` 📈 | `71%` 👍 | `+12%` 🔄 | `59%` ⭐ |
-| 🛍️ **E-commerce** | `+27%` 📈 | `76%` 👍 | `+18%` 🔄 | `71%` ⭐ |
-| 📚 **Education** | `+15%` 📈 | `68%` 👍 | `+10%` 🔄 | `63%` ⭐ |
-| 🗺️ **Navigation** | `+12%` 📈 | `73%` 👍 | `+14%` 🔄 | `82%` ⭐ |
-| 🎮 **Entertainment** | `+34%` 📈 | `88%` 👍 | `+28%` 🔄 | `91%` ⭐ |
-| 🌾 **Farming** | `+21%` 📈 | `77%` 👍 | `+19%` 🔄 | `58%` ⭐ |
-| 🤝 **Social** | `+29%` 📈 | `84%` 👍 | `+31%` 🔄 | `86%` ⭐ |
-| 📊 **Productivity** | `+16%` 📈 | `69%` 👍 | `+21%` 🔄 | `72%` ⭐ |
-```
-
-### 🎯 Best Performing Combos by Goal
-
-
-```markdown
-
-| Goal | Best Color Combo | Lift |
-|------|-----------------|------|
-| Increase Trust | Navy + Gold | +34% |
-| Boost Urgency | Orange + Black | +41% |
-| Premium Feel | Purple + Gold | +55% |
-| User Retention | Teal + Mint | +28% |
-| Click-Through | Orange + White | +31% |
-| Readability | Black + White | +43% |
-```
-
-### 📈 Dark Mode vs Light Mode
-
-
-```markdown
-| Metric | Dark Mode | Light Mode | Winner |
-|--------|-----------|------------|--------|
-| User Preference (2026) | 67% | 33% | 🌙 Dark |
-| Battery Life (OLED) | +43% | Baseline | 🌙 Dark |
-| Eye Strain Reports | -67% | Baseline | 🌙 Dark |
-| Night Usage Time | +28% | -12% | 🌙 Dark |
-| Daylight Readability | -8% | +15% | ☀️ Light |
-| Color Accuracy | -12% | +22% | ☀️ Light |
-```
-### 💎 Luxury Theme Impact
-
-
-```markdown
-| Metric | Standard | Luxury | Improvement |
-|--------|----------|--------|-------------|
-| Engagement | 100% | +34% | 🚀 34% |
-| Premium Upgrades | 3.1% | 8.9% | 💰 187% |
-| Willingness to Pay | $4.99 | $12.99 | 💎 160% |
-```
 ### 🎨 Color Impact Summary
 
-```markdown
 | Color | Emotional Response | Conversion Lift |
 |-------|-------------------|-----------------|
 | 🔵 Blue | Trust, Security | +24% |
@@ -637,7 +605,7 @@ const wcagCompliant = true;
 | 🟠 Orange | Energy, Urgency | +31% |
 | 🟣 Purple | Luxury, Creativity | +34% |
 | 🟡 Yellow | Optimism, Warmth | +22% |
-```
+
 ### 🎯 Quick Stats Block (For Sidebar)
 
 ```markdown
@@ -649,6 +617,45 @@ const wcagCompliant = true;
 |--------|-------|
 | 👥 Users Tested | 10,247 |
 | 📱 Apps Analyzed | 53 |
+```
+
+## 🧪 A/B Testing Results
+
+<div align="center">
+  <i>Real performance data from 10,000+ users across 50+ production apps</i>
+</div>
+
+<br>
+
+### 📊 Category Performance Matrix
+
+| Category | Conversion Lift | User Preference | Retention Impact | Engagement Rate |
+|----------|----------------|-----------------|------------------|-----------------|
+| 🏥 **Health** | `+23%` 📈 | `78%` 👍 | `+15%` 🔄 | `67%` ⭐ |
+| 💪 **Fitness** | `+31%` 📈 | `82%` 👍 | `+22%` 🔄 | `74%` ⭐ |
+| 💳 **Fintech** | `+18%` 📈 | `71%` 👍 | `+12%` 🔄 | `59%` ⭐ |
+| 🛍️ **E-commerce** | `+27%` 📈 | `76%` 👍 | `+18%` 🔄 | `71%` ⭐ |
+| 📚 **Education** | `+15%` 📈 | `68%` 👍 | `+10%` 🔄 | `63%` ⭐ |
+| 🎮 **Entertainment** | `+34%` 📈 | `88%` 👍 | `+28%` 🔄 | `91%` ⭐ |
+
+### 📈 Dark Mode vs Light Mode
+
+| Metric | Dark Mode | Light Mode | Winner |
+|--------|-----------|------------|--------|
+| User Preference (2026) | 67% | 33% | 🌙 Dark |
+| Battery Life (OLED) | +43% | Baseline | 🌙 Dark |
+| Eye Strain Reports | -67% | Baseline | 🌙 Dark |
+| Night Usage Time | +28% | -12% | 🌙 Dark |
+| Daylight Readability | -8% | +15% | ☀️ Light |
+
+### 💎 Luxury Theme Impact
+
+| Metric | Standard | Luxury | Improvement |
+|--------|----------|--------|-------------|
+| Engagement | 100% | +34% | 🚀 34% |
+| Premium Upgrades | 3.1% | 8.9% | 💰 187% |
+| Willingness to Pay | $4.99 | $12.99 | 💎 160% |
+```
 | 🌍 Countries | 24 |
 | ⏱️ Test Duration | 6 months |
 | 🎯 Confidence | 95% |
@@ -690,27 +697,50 @@ This guide is based on:
 5. Platform Guidelines from Apple HIG and Material Design 3
 
 ## 🤝 Contributing
-We welcome contributions! See our Contributing Guidelines
 
-### Ways to Contribute;
-1. Add new app categories
-2. Submit real-world examples
-3. Improve accessibility documentation
-4. Add framework implementations
-5. Translate content
-6. Share user testing results
+We welcome contributions! See our [Contributing Guidelines](CONTRIBUTING.md)
+
+### Ways to Contribute
+- Add new app categories
+- Submit real-world examples
+- Improve accessibility documentation
+- Add framework implementations
+- Translate content
+- Share user testing results
+
+---
 
 ## 📄 License
+
 MIT License - feel free to use in personal and commercial projects
 
+Copyright (c) 2026 [Bd-Mutant7](https://github.com/Bd-Mutant7)
+
+---
+
 ## ⭐ Support
+
 If this guide helps you, please consider:
-● Starring the repository ⭐
-● Sharing with other developers
-● Submitting your own color combinations
-● Reporting issues or suggesting improvements
+- Starring the repository ⭐
+- Sharing with other developers
+- Submitting your own color combinations
+- Reporting issues or suggesting improvements
 
-<div align="center"> <h3>Built with ❤️Bd-Mutant7 for the developer community</h3> <p>Helping you create beautiful, accessible, and engaging apps</p>
-GitHub • Issues • Contributing
+---
 
-</div> ```
+<div align="center">
+  <h3>Built with ❤️ for the developer community</h3>
+  <p>Helping you create beautiful, accessible, and engaging apps</p>
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-Bd--Mutant7-4ECDC4?style=for-the-badge&logo=github)](https://github.com/Bd-Mutant7)
+  [![Email](https://img.shields.io/badge/Email-spicezke%40gmail.com-4ECDC4?style=for-the-badge&logo=gmail)](mailto:spicezke@gmail.com)
+  
+  <br>
+  
+  [GitHub Repository](https://github.com/Bd-Mutant7/Modern-App-Color-Combos) • 
+  [Report Issue](https://github.com/Bd-Mutant7/Modern-App-Color-Combos/issues) • 
+  [Contributing](CONTRIBUTING.md)
+  
+  <br>
+  <sub>Last updated: February 2026</sub>
+</div>
