@@ -658,23 +658,23 @@ const wcagCompliant = true;
 | Engagement | 100% | +34% | 🚀 34% |
 | Premium Upgrades | 3.1% | 8.9% | 💰 187% |
 | Willingness to Pay | $4.99 | $12.99 | 💎 160% |
-```
+
 | 🌍 Countries | 24 |
 | ⏱️ Test Duration | 6 months |
 | 🎯 Confidence | 95% |
   
 </div>
-```
+
 
 ### 🎨 Best Colors by Goal
 
-```text
+
 Trust       →  Navy (#0A2342)      +34%
 Urgency     →  Orange (#FF6B4A)     +41%
 Luxury      →  Purple (#6C5CE7)     +55%
 Growth      →  Green (#00A86B)      +28%
 Energy      →  Yellow (#BFFF00)     +31%
-```
+
 ## 📊 Data Visualization (ASCII Chart)
 
 ```text
