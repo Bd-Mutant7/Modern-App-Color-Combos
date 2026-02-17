@@ -19,12 +19,7 @@ node_modules/
 package-lock.json
 yarn.lock
 
-# Generated files
-/dist
-/build
-/out
-
-# Environment files
+# Environment
 .env
 .env.local
 .env.*.local
@@ -35,9 +30,10 @@ yarn.lock
 *.temp
 .cache
 
-# Visual assets (keep only source files)
+# Generated assets (keep only source files)
 *.png
 *.jpg
 *.jpeg
 *.gif
-!examples/assets/
+!assets/images/
+!assets/swatches/
