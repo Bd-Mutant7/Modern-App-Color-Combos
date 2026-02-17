@@ -1,4 +1,6 @@
-# 🎨 App Color Combinations
+  <p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=App%20Color%20Combos&fontSize=50&fontColor=FFFFFF&animation=twinkling" width="100%" alt="Header Banner"/>
+  </p>
 
 <div align="center">
   
@@ -14,9 +16,7 @@
   
   ### A curated collection of color combinations for modern app development
   
-  <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=App%20Color%20Combos&fontSize=50&fontColor=FFFFFF&animation=twinkling" width="100%" alt="Header Banner"/>
-  </p>
+
 
   <p>Research-backed, user-tested, and developer-ready color palettes for every app category</p>
   
