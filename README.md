@@ -610,11 +610,12 @@ const wcagCompliant = true;
 
 ### 🎯 Quick Stats Block (For Sidebar)
 
-```markdown
+
 <div align="center">
   
 ### 📊 Key Metrics
-  
+
+  ```markdown
 | Metric | Value |
 |--------|-------|
 | 👥 Users Tested | 10,247 |
