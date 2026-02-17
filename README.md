@@ -13,27 +13,28 @@
 <div align="center">
   <img src="https://via.placeholder.com/800x200/4ECDC4/FFFFFF?text=Modern+App+Color+Combos+2026" alt="Modern App Color Combinations Banner" width="800"/>
   
+ <div align="center">
+  
   # 🎨 Modern App Color Combinations
   
   ### A curated collection of color combinations for modern app development
   
-  [![GitHub stars](https://img.shields.io/github/stars/Bd-Mutant7/Modern-App-Color-Combos?style=social)](https://github.com/Bd-Mutant7/Modern-App-Color-Combos/stargazers)
-  [![GitHub forks](https://img.shields.io/github/forks/Bd-Mutant7/Modern-App-Color-Combos?style=social)](https://github.com/Bd-Mutant7/Modern-App-Color-Combos/network/members)
-  [![GitHub issues](https://img.shields.io/github/issues/Bd-Mutant7/Modern-App-Color-Combos)](https://github.com/Bd-Mutant7/Modern-App-Color-Combos/issues)
-  [![GitHub license](https://img.shields.io/github/license/Bd-Mutant7/Modern-App-Color-Combos)](https://github.com/Bd-Mutant7/Modern-App-Color-Combos/blob/main/LICENSE)
-  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Bd-Mutant7/Modern-App-Color-Combos/pulls)
+  <p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=App%20Color%20Combos&fontSize=50&fontColor=FFFFFF&animation=twinkling" width="100%" alt="Header Banner"/>
+  </p>
+  
+  [![GitHub stars](https://img.shields.io/github/stars/Bd-Mutant7/Modern-App-Color-Combos?style=for-the-badge&logo=github&color=4ECDC4)](https://github.com/Bd-Mutant7/Modern-App-Color-Combos/stargazers)
+  [![GitHub forks](https://img.shields.io/github/forks/Bd-Mutant7/Modern-App-Color-Combos?style=for-the-badge&logo=github&color=FF6B4A)](https://github.com/Bd-Mutant7/Modern-App-Color-Combos/network/members)
+  [![GitHub license](https://img.shields.io/github/license/Bd-Mutant7/Modern-App-Color-Combos?style=for-the-badge&logo=github&color=00A86B)](https://github.com/Bd-Mutant7/Modern-App-Color-Combos/blob/main/LICENSE)
+  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge&logo=github&color=D4AF37)](https://github.com/Bd-Mutant7/Modern-App-Color-Combos/pulls)
   
   Research-backed, user-tested, and developer-ready color palettes for every app category
-  
-  **[📖 Read the Guide](#)** • **[🎨 View Palettes](#app-categories)** • **[🤝 Contribute](CONTRIBUTING.md)**
   
   <br>
   
   | 🌟 **Stars** | 🍴 **Forks** | 🐛 **Issues** | 📥 **Contributors** |
   |:------------:|:------------:|:-------------:|:-------------------:|
   | 0 | 0 | 0 | 1 |
-  
-  <br>
   
   ---
 </div>
