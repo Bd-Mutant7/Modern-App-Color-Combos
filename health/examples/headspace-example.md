@@ -260,4 +260,7 @@ struct MeditationView: View {
 - [🎯 Meditation UI Patterns](../../guidelines/meditation-ui.md)
 - [🧠 Color Psychology in Wellness Apps](../../guidelines/color-psychology.md#wellness)
 - [♿ Accessibility in Meditation Apps](../../guidelines/accessibility.md#mindfulness)
+
+
+
 Last updated: February 2026 • Report Issue
