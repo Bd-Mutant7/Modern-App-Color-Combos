@@ -221,8 +221,9 @@ If this guide helps you, please consider supporting it:
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Bd--Mutant7-4ECDC4?style=for-the-badge&logo=github)](https://github.com/Bd-Mutant7)
-[![Email](https://img.shields.io/badge/Email-spicezke%40gmail.com-FF6B4A?style=for-the-badge&logo=gmail)](mailto:spicezke@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bd-Mutant7)
+[![Email](https://img.shields.io/badge/Email-4ECDC4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spicezke@gmail.com)
+
 
 ---
 
