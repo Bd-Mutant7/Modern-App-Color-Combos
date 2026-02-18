@@ -27,3 +27,25 @@
   --revolut-accent: #D4AF37;      /* Gold - Premium */
   --revolut-background: #FFFFFF;  /* White - Clean */
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🎨 | [Fintech Primary Palette](../primary-palette.md) | Main color scheme |
+| 🌙 | [Fintech Dark Mode](../dark-mode.md) | Dark theme variant |
+| 💎 | [Fintech Luxury Style](../luxury-style.md) | Premium palette |
+| 📱 | [Back to Examples](./) | All case studies |
+| 🏦 | [Monzo](./monzo-example.md) | Next case study |
+| 📈 | [Robinhood](./robinhood-example.md) | Investment app |
+
+### 🌐 External Links
+- 🌐 [Revolut Official Website](https://www.revolut.com)
+- 📱 [Download on App Store](https://apps.apple.com/app/revolut)
+- 📱 [Get it on Google Play](https://play.google.com/store/apps/details?id=com.revolut)
+- 📘 [Revolut Blog](https://blog.revolut.com)
+- 🐦 [Revolut on Twitter](https://twitter.com/RevolutApp)
+
+---
+
+**[⬆ Back to Top](#top)** • **[📁 All Examples](./)** • **[🏠 Fintech Home](../README.md)**
