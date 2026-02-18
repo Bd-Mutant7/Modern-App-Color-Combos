@@ -26,3 +26,25 @@
   --monzo-secondary: #2C3E50;    /* Dark Gray - Stability */
   --monzo-background: #FFFFFF;   /* White - Clean */
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🎨 | [Fintech Primary Palette](../primary-palette.md) | Main color scheme |
+| 🌙 | [Fintech Dark Mode](../dark-mode.md) | Dark theme variant |
+| 💎 | [Fintech Luxury Style](../luxury-style.md) | Premium palette |
+| 📱 | [Back to Examples](./) | All case studies |
+| 💳 | [Revolut](./revolut-example.md) | Previous case study |
+| 📈 | [Robinhood](./robinhood-example.md) | Next case study |
+
+### 🌐 External Links
+- 🌐 [Monzo Official Website](https://monzo.com)
+- 📱 [Download on App Store](https://apps.apple.com/app/monzo)
+- 📱 [Get it on Google Play](https://play.google.com/store/apps/details?id=co.uk.monzo)
+- 📘 [Monzo Community](https://community.monzo.com)
+- 🐦 [Monzo on Twitter](https://twitter.com/monzo)
+
+---
+
+**[⬆ Back to Top](#top)** • **[📁 All Examples](./)** • **[🏠 Fintech Home](../README.md)**
