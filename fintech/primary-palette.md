@@ -102,3 +102,17 @@
   font-size: 12px;
 }
 ```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🌙 | [Fintech Dark Mode](./dark-mode.md) | Dark theme variant |
+| 💎 | [Fintech Luxury Style](./luxury-style.md) | Premium palette |
+| 📱 | [Fintech Examples](./examples/) | Case studies directory |
+| 💳 | [Revolut Case Study](./examples/revolut-example.md) | Digital banking |
+| 🏦 | [Monzo Case Study](./examples/monzo-example.md) | Neobank |
+| 📈 | [Robinhood Case Study](./examples/robinhood-example.md) | Investment app |
+
+---
+
+**[⬆ Back to Top](#top)** • **[🏠 Fintech Home](../README.md)**
