@@ -20,12 +20,17 @@
 | **Nike Training** | Workout guides | `#2C3E50` `#BFFF00` | [View](./nike-training-example.md) |
 | **MyFitnessPal** | Nutrition tracker | `#4A90E2` `#2C3E50` | [View](./myfitnesspal-example.md) |
 
-## 🔗 Navigation
+## 🔗 Navigation Links
 
-- [⬅️ Back to Fitness Home](../README.md)
-- [🎨 Primary Palette](../primary-palette.md)
-- [🌙 Dark Mode](../dark-mode.md)
-- [💎 Luxury Style](../luxury-style.md)
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🏠 | [Fitness Home](../README.md) | Back to fitness category |
+| 🎨 | [Primary Palette](../primary-palette.md) | Main color scheme |
+| 🌙 | [Dark Mode](../dark-mode.md) | Dark theme variant |
+| 💎 | [Luxury Style](../luxury-style.md) | Premium fitness palette |
+| 💪 | [Strava Case Study](./strava-example.md) | Running tracker |
+| 🏋️ | [Nike Training](./nike-training-example.md) | Workout app |
+| 📊 | [MyFitnessPal](./myfitnesspal-example.md) | Nutrition tracker |
 
 ---
 
