@@ -48,3 +48,18 @@
   border-radius: 20px;
   font-weight: bold;
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🎨 | [Fitness Primary Palette](./primary-palette.md) | Main color scheme |
+| 🌙 | [Fitness Dark Mode](./dark-mode.md) | Dark theme variant |
+| 📱 | [Fitness Examples](./examples/) | Case studies directory |
+| 💪 | [Strava Case Study](./examples/strava-example.md) | Running tracker analysis |
+| 🏋️ | [Nike Training](./examples/nike-training-example.md) | Workout app analysis |
+| 📊 | [MyFitnessPal](./examples/myfitnesspal-example.md) | Nutrition tracker analysis |
+
+---
+
+**[⬆ Back to Top](#top)** • **[🏠 Fitness Home](../README.md)**
