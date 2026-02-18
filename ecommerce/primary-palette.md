@@ -65,3 +65,18 @@
   font-size: 24px;
   font-weight: bold;
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🌙 | [E-commerce Dark Mode](./dark-mode.md) | Dark theme variant |
+| 💎 | [E-commerce Luxury Style](./luxury-style.md) | Premium palette |
+| 📱 | [E-commerce Examples](./examples/) | Case studies directory |
+| 🛍️ | [Shopify Case Study](./examples/shopify-example.md) | Platform |
+| 📦 | [Amazon Case Study](./examples/amazon-example.md) | Retail giant |
+| 🏷️ | [eBay Case Study](./examples/ebay-example.md) | Marketplace |
+
+---
+
+**[⬆ Back to Top](#top)** • **[🏠 E-commerce Home](../README.md)**
