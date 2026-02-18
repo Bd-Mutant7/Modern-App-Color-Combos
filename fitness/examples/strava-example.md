@@ -36,3 +36,23 @@
   --strava-success: #00A86B;     /* Green - PRs */
   --strava-social: #4A90E2;      /* Blue - Community */
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🎨 | [Fitness Primary Palette](../primary-palette.md) | Main color scheme |
+| 🌙 | [Fitness Dark Mode](../dark-mode.md) | Dark theme variant |
+| 💎 | [Fitness Luxury Style](../luxury-style.md) | Premium palette |
+| 📱 | [Back to Examples](./) | All case studies |
+| 🏋️ | [Nike Training](./nike-training-example.md) | Workout app analysis |
+| 📊 | [MyFitnessPal](./myfitnesspal-example.md) | Nutrition tracker analysis |
+
+### 🌐 External Links
+- 🌐 [Strava Official Website](https://www.strava.com)
+- 📱 [Download on App Store](https://apps.apple.com/app/strava)
+- 📱 [Get it on Google Play](https://play.google.com/store/apps/details?id=com.strava)
+
+---
+
+**[⬆ Back to Top](#top)** • **[📁 All Examples](./)** • **[🏠 Fitness Home](../README.md)**
