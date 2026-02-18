@@ -26,3 +26,25 @@
   --ebay-secondary: #FF6B4A;      /* Orange - Action */
   --ebay-background: #FFFFFF;     /* White - Clean */
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🎨 | [E-commerce Primary Palette](../primary-palette.md) | Main color scheme |
+| 🌙 | [E-commerce Dark Mode](../dark-mode.md) | Dark theme variant |
+| 💎 | [E-commerce Luxury Style](../luxury-style.md) | Premium palette |
+| 📱 | [Back to Examples](./) | All case studies |
+| 🛍️ | [Shopify](./shopify-example.md) | Platform |
+| 📦 | [Amazon](./amazon-example.md) | Retail giant |
+
+### 🌐 External Links
+- 🌐 [eBay Official Website](https://www.ebay.com)
+- 📱 [Download on App Store](https://apps.apple.com/app/ebay)
+- 📱 [Get it on Google Play](https://play.google.com/store/apps/details?id=com.ebay)
+- 📘 [eBay Announcements](https://www.ebayinc.com/stories/news)
+- 🐦 [eBay on Twitter](https://twitter.com/ebay)
+
+---
+
+**[⬆ Back to Top](#top)** • **[📁 All Examples](./)** • **[🏠 E-commerce Home](../README.md)**
