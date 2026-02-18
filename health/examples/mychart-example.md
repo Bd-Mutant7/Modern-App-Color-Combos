@@ -188,7 +188,20 @@ export default HealthMetricCard;
 - **Support**: [MyChart Help Center](https://help.mychart.com)
   
 <div align="center">
+## 🔗 Related Links
 
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🎨 | [Health Primary Palette](../primary-palette.md) | Main color scheme |
+| 🌙 | [Health Dark Mode](../dark-mode.md) | Dark theme variant |
+| 💎 | [Health Luxury Style](../luxury-style.md) | Premium health palette |
+| 📱 | [Back to Health Examples](./) | All case studies |
+| 🧘 | [Headspace Case Study](./headspace-example.md) | Meditation app analysis |
+| 🔴 | [Clue Case Study](./clue-example.md) | Period tracker analysis |
+
+---
+
+**[⬆ Back to Top](#top)** • **[📁 All Examples](./)** • **[🏠 Health Home](../README.md)** • **[📚 Main README](../../README.md)**
 
 ### 🌐 Official
 [![Website](https://img.shields.io/badge/Website-MyChart-4ECDC4?style=for-the-badge&logo=google-chrome)](https://www.mychart.com)
