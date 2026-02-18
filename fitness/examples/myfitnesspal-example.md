@@ -35,3 +35,23 @@
   --mfp-success: #00A86B;        /* Green - Goals met */
   --mfp-warning: #FF6B4A;        /* Orange - Over budget */
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🎨 | [Fitness Primary Palette](../primary-palette.md) | Main color scheme |
+| 🌙 | [Fitness Dark Mode](../dark-mode.md) | Dark theme variant |
+| 💎 | [Fitness Luxury Style](../luxury-style.md) | Premium palette |
+| 📱 | [Back to Examples](./) | All case studies |
+| 💪 | [Strava](./strava-example.md) | Running tracker analysis |
+| 🏋️ | [Nike Training](./nike-training-example.md) | Workout app analysis |
+
+### 🌐 External Links
+- 🌐 [MyFitnessPal Official](https://www.myfitnesspal.com)
+- 📱 [Download on App Store](https://apps.apple.com/app/myfitnesspal)
+- 📱 [Get it on Google Play](https://play.google.com/store/apps/details?id=com.myfitnesspal.android)
+
+---
+
+**[⬆ Back to Top](#top)** • **[📁 All Examples](./)** • **[🏠 Fitness Home](../README.md)**
