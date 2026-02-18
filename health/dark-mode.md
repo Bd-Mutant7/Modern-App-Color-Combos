@@ -23,3 +23,18 @@
     color: #E0E0E0;
   }
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🎨 | [Health Primary Palette](./primary-palette.md) | Main color scheme |
+| 💎 | [Health Luxury Style](./luxury-style.md) | Premium health palette |
+| 📱 | [Health Examples](./examples/) | Case studies directory |
+| 🧘 | [Headspace Case Study](./examples/headspace-example.md) | Meditation app analysis |
+| 🏥 | [MyChart Case Study](./examples/mychart-example.md) | Patient portal analysis |
+| 🔴 | [Clue Case Study](./examples/clue-example.md) | Period tracker analysis |
+
+---
+
+**[⬆ Back to Top](#top)** • **[🏠 Back to Health](../README.md)** • **[📚 Main README](../../README.md)**
