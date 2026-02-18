@@ -48,3 +48,18 @@
   border: 1px solid var(--accent);
   color: var(--text);
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🎨 | [Fintech Primary Palette](./primary-palette.md) | Main color scheme |
+| 💎 | [Fintech Luxury Style](./luxury-style.md) | Premium palette |
+| 📱 | [Fintech Examples](./examples/) | Case studies directory |
+| 💳 | [Revolut Case Study](./examples/revolut-example.md) | Digital banking |
+| 🏦 | [Monzo Case Study](./examples/monzo-example.md) | Neobank |
+| 📈 | [Robinhood Case Study](./examples/robinhood-example.md) | Investment app |
+
+---
+
+**[⬆ Back to Top](#top)** • **[🏠 Fintech Home](../README.md)**
