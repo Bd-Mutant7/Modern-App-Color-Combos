@@ -239,7 +239,7 @@ struct MeditationView: View {
 
 ### 📂 Internal Navigation
 | Link | Path |
-|------|------|
+|:---:|:---:|
 | [📁 Back to Health Examples](./) | `./` |
 | [🎨 Health Primary Palette](../primary-palette.md) | `../primary-palette.md` |
 | [🌙 Health Dark Mode](../dark-mode.md) | `../dark-mode.md` |
@@ -252,7 +252,7 @@ struct MeditationView: View {
 - [📱 Download on App Store](https://apps.apple.com/app/headspace)
 - [📱 Get it on Google Play](https://play.google.com/store/apps/details?id=com.headspace.android)
 - [📘 Headspace Blog](https://www.headspace.com/blog)
-- [🐦 Headspace Twitter](https://twitter.com/headspace)
+- [🐦 Headspace on Twitter](https://twitter.com/headspace)
 
 ### 📖 Additional Reading
 - [🧘 Mindfulness App Design Guidelines](../../guidelines/mindfulness-design.md)
@@ -261,6 +261,8 @@ struct MeditationView: View {
 - [🧠 Color Psychology in Wellness Apps](../../guidelines/color-psychology.md#wellness)
 - [♿ Accessibility in Meditation Apps](../../guidelines/accessibility.md#mindfulness)
 
+---
 
+**[⬆ Back to Top](#top)** • **[📁 All Examples](./)** • **[🏠 Health Home](../README.md)** • **[📚 Main README](../../README.md)**
 
-Last updated: February 2026 • Report Issue
+*Last updated: February 2026* • *[Report Issue](https://github.com/Bd-Mutant7/Modern-App-Color-Combos/issues)*
