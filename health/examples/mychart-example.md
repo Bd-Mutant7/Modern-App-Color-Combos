@@ -182,13 +182,6 @@ export default HealthMetricCard;
 
 <div align="center">
 
-### 🧭 Navigate
-[![Back to Examples](./)](./)
-[![Primary Palette](../primary-palette.md)](../primary-palette.md)
-[![Dark Mode](../dark-mode.md)](../dark-mode.md)
-[![Luxury Style](../luxury-style.md)](../luxury-style.md)
-[![Health Home](../README.md)](../README.md)
-[![Main README](../../README.md)](../../README.md)
 
 ### 🌐 Official
 [![Website](https://img.shields.io/badge/Website-MyChart-4ECDC4?style=for-the-badge&logo=google-chrome)](https://www.mychart.com)
