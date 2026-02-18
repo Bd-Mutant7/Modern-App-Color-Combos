@@ -127,53 +127,56 @@ export default HealthMetricCard;
 
 "Even with my vision issues, I can read everything clearly. The contrast is excellent." - Eleanor, 78
 
+---
+
 ## 🔗 Related Resources
 
-<div align="center">
+<details>
+<summary><b>📋 Click to expand navigation links</b></summary>
+<br>
 
-### 📂 Navigation Links
-
-| | Link | Description |
-|:---:|:---:|:---|
-| 📁 | [Back to Health Examples](./) | Return to examples directory |
-| 🎨 | [Health Primary Palette](../primary-palette.md) | Main health color scheme |
-| 🌙 | [Health Dark Mode](../dark-mode.md) | Dark theme variant |
-| 💎 | [Health Luxury Style](../luxury-style.md) | Premium health palette |
-| 🏠 | [Back to Health Category](../README.md) | Health section home |
-| 📚 | [Back to Main README](../../README.md) | Repository home |
-
----
+### 📂 Internal Navigation
+| Icon | Link | Path |
+|:----:|:----|:----:|
+| 📁 | [Back to Health Examples](./) | `./` |
+| 🎨 | [Health Primary Palette](../primary-palette.md) | `../primary-palette.md` |
+| 🌙 | [Health Dark Mode](../dark-mode.md) | `../dark-mode.md` |
+| 💎 | [Health Luxury Style](../luxury-style.md) | `../luxury-style.md` |
+| 🏠 | [Back to Health Category](../README.md) | `../README.md` |
+| 📚 | [Back to Main README](../../README.md) | `../../README.md` |
 
 ### 🌐 External Links
-
-| | App | Links |
-|:---:|:---:|:---|
-| 🌐 | **MyChart Official** | [Visit Website](https://www.mychart.com) |
-| 📱 | **App Store (iOS)** | [Download on App Store](https://apps.apple.com/app/mychart) |
-| 📱 | **Google Play** | [Get it on Google Play](https://play.google.com/store/apps/details?id=com.epic.mychart) |
-| 🐦 | **Twitter** | [@MyChart](https://twitter.com/MyChart) |
-| 📘 | **Facebook** | [MyChart Community](https://facebook.com/MyChart) |
-
----
+- **Official Website**: [mychart.com](https://www.mychart.com)
+- **iOS App**: [Download on App Store](https://apps.apple.com/app/mychart)
+- **Android App**: [Get it on Google Play](https://play.google.com/store/apps/details?id=com.epic.mychart)
+- **Developer Docs**: [MyChart API](https://developer.mychart.com)
 
 ### 📖 Additional Reading
-
-| | Resource | Link |
-|:---:|:---:|:---|
-| 📄 | [Health App Design Guidelines](../../guidelines/health-design.md) | Best practices for medical apps |
-| 🏥 | [Medical UI Best Practices](../../guidelines/medical-ui.md) | UI patterns for healthcare |
-| ♿ | [Accessibility in Healthcare Apps](../../guidelines/accessibility.md) | WCAG compliance for medical apps |
-| 📊 | [Color Psychology in Health](../../guidelines/color-psychology.md#health) | Emotional impact of colors |
-| 🔬 | [Medical App Case Studies](../../research/medical-apps.md) | More real-world examples |
+- [Health App Design Guidelines](../../guidelines/health-design.md)
+- [Medical UI Best Practices](../../guidelines/medical-ui.md)
+- [Accessibility in Healthcare Apps](../../guidelines/accessibility.md)
+- [Color Psychology in Medical Apps](../../guidelines/color-psychology.md#health)
+- [Dark Mode for Healthcare](../../guidelines/dark-mode-principles.md#health)
 
 ---
+
+<div align="center">
+  
+| ⬅️ Previous | 📍 Current | ➡️ Next |
+|:---:|:---:|:---:|
+| [Headspace Example](./headspace-example.md) | **MyChart** | [Clue Example](./clue-example.md) |
 
 **[⬆ Back to Top](#top)** • 
 **[📁 All Examples](./)** • 
 **[🏠 Health Home](../README.md)** • 
 **[📚 Main README](../../README.md)**
 
+---
+
+*Last updated: February 2026* • *[Report Issue](https://github.com/Bd-Mutant7/Modern-App-Color-Combos/issues)* • *[Contribute](../../CONTRIBUTING.md)*
+
 </div>
+</details>
 
 ## 🔗 Links & Resources
 
