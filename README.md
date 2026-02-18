@@ -192,6 +192,7 @@ We welcome contributions from everyone! Here's how you can help:
 - [📧 Contact Maintainer](mailto:spicezke@gmail.com)
 
 ---
+</div>
 
 ## 📄 License
 
