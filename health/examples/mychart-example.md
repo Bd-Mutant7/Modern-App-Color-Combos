@@ -202,4 +202,4 @@ export default HealthMetricCard;
 
 </div>
 
-<div align="center"> <sub>Case Study v1.0 | Last Updated: February 2026</sub> <br> <a href="../../README.md">⬅ Back to Main</a> • <a href="#top">⬆ Back to Top</a> • <a href="../README.md">📁 Health Category</a> </div> 
+*Last updated: February 2026* • *[Report Issue](https://github.com/Bd-Mutant7/Modern-App-Color-Combos/issues)* • *[Contribute](../../CONTRIBUTING.md)*
