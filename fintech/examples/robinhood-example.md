@@ -26,3 +26,25 @@
   --robinhood-secondary: #2C3E50; /* Dark Gray - Stability */
   --robinhood-background: #FFFFFF; /* White - Clean */
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🎨 | [Fintech Primary Palette](../primary-palette.md) | Main color scheme |
+| 🌙 | [Fintech Dark Mode](../dark-mode.md) | Dark theme variant |
+| 💎 | [Fintech Luxury Style](../luxury-style.md) | Premium palette |
+| 📱 | [Back to Examples](./) | All case studies |
+| 💳 | [Revolut](./revolut-example.md) | Digital banking |
+| 🏦 | [Monzo](./monzo-example.md) | Neobank |
+
+### 🌐 External Links
+- 🌐 [Robinhood Official Website](https://robinhood.com)
+- 📱 [Download on App Store](https://apps.apple.com/app/robinhood)
+- 📱 [Get it on Google Play](https://play.google.com/store/apps/details?id=com.robinhood.android)
+- 📘 [Robinhood Blog](https://blog.robinhood.com)
+- 🐦 [Robinhood on Twitter](https://twitter.com/robinhoodapp)
+
+---
+
+**[⬆ Back to Top](#top)** • **[📁 All Examples](./)** • **[🏠 Fintech Home](../README.md)**
