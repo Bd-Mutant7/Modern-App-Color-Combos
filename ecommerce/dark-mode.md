@@ -29,7 +29,10 @@
 |:----:|:----|:-----------:|
 | 🎨 | [E-commerce Primary Palette](./primary-palette.md) | Main color scheme |
 | 💎 | [E-commerce Luxury Style](./luxury-style.md) | Premium palette |
-| 📱 | [E-commerce Examples](./examples/) | Case studies |
+| 📱 | [E-commerce Examples](./examples/) | Case studies directory |
+| 🛍️ | [Shopify Case Study](./examples/shopify-example.md) | Platform |
+| 📦 | [Amazon Case Study](./examples/amazon-example.md) | Retail giant |
+| 🏷️ | [eBay Case Study](./examples/ebay-example.md) | Marketplace |
 
 ---
 
