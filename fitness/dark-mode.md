@@ -54,3 +54,18 @@
   border-radius: 16px;
   border: 1px solid var(--primary);
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🎨 | [Fitness Primary Palette](./primary-palette.md) | Main color scheme |
+| 💎 | [Fitness Luxury Style](./luxury-style.md) | Premium fitness palette |
+| 📱 | [Fitness Examples](./examples/) | Case studies directory |
+| 💪 | [Strava Case Study](./examples/strava-example.md) | Running tracker analysis |
+| 🏋️ | [Nike Training](./examples/nike-training-example.md) | Workout app analysis |
+| 📊 | [MyFitnessPal](./examples/myfitnesspal-example.md) | Nutrition tracker analysis |
+
+---
+
+**[⬆ Back to Top](#top)** • **[🏠 Fitness Home](../README.md)**
