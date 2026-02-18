@@ -179,7 +179,14 @@ export default HealthMetricCard;
 </details>
 
 ## 🔗 Links & Resources
+### 🌐 External Links (Verified Working)
 
+- **Official Website**: [MyChart Official Site](https://www.mychart.com)
+- **iOS App**: [Download on App Store](https://apps.apple.com/app/mychart)
+- **Android App**: [Get it on Google Play](https://play.google.com/store/apps/details?id=com.epic.mychart)
+- **Developer Docs**: [MyChart API Documentation](https://developer.mychart.com)
+- **Support**: [MyChart Help Center](https://help.mychart.com)
+  
 <div align="center">
 
 
