@@ -254,7 +254,7 @@ copies of the Software.
 ---
 
 **Made with ❤️ by [Bd-Mutant7](https://github.com/Bd-Mutant7)** • 
-**📧 [spicezke@gmail.com](mailto:spicezke@gmail.com)** • 
+**📧 [Mail-Me](mailto:spicezke@gmail.com)** • 
 **📅 Last Updated: February 2026**
 
 </div>
