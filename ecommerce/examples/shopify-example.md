@@ -26,3 +26,25 @@
   --shopify-secondary: #BFFF00;   /* Lime - Growth */
   --shopify-background: #FFFFFF;  /* White - Clean */
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🎨 | [E-commerce Primary Palette](../primary-palette.md) | Main color scheme |
+| 🌙 | [E-commerce Dark Mode](../dark-mode.md) | Dark theme variant |
+| 💎 | [E-commerce Luxury Style](../luxury-style.md) | Premium palette |
+| 📱 | [Back to Examples](./) | All case studies |
+| 📦 | [Amazon](./amazon-example.md) | Next case study |
+| 🏷️ | [eBay](./ebay-example.md) | Marketplace |
+
+### 🌐 External Links
+- 🌐 [Shopify Official Website](https://www.shopify.com)
+- 📱 [Download on App Store](https://apps.apple.com/app/shopify)
+- 📱 [Get it on Google Play](https://play.google.com/store/apps/details?id=com.shopify)
+- 📘 [Shopify Blog](https://www.shopify.com/blog)
+- 🐦 [Shopify on Twitter](https://twitter.com/shopify)
+
+---
+
+**[⬆ Back to Top](#top)** • **[📁 All Examples](./)** • **[🏠 E-commerce Home](../README.md)**
