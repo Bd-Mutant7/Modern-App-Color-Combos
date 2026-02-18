@@ -18,7 +18,9 @@
 [![Dark Mode Ready](https://img.shields.io/badge/🌙-Dark%20Mode%20Ready-6C5CE7?style=for-the-badge)]()
 
 </div>
+
 <div align="center">
+  
 ## 📋 Quick Navigation
 
 | 🏠 [Home](#) | 📚 [Categories](#-app-categories) | 🎨 [Palettes](#-app-categories) | 🌙 [Dark Mode](#-dark-mode-guide) | 💎 [Luxury](#-luxury-style-guide) |
