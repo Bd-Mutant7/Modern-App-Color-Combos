@@ -1,4 +1,15 @@
+<div align="center">
 
+# 🎨 Modern App Color Combinations
+
+### A curated collection of color combinations for modern app development
+
+[![Modern App Color Combos](https://img.shields.io/badge/🎨-Modern%20App%20Color%20Combos-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bd-Mutant7/Modern-App-Color-Combos)
+[![Research Backed](https://img.shields.io/badge/🔬-Research%20Backed-00A86B?style=for-the-badge)]()
+[![WCAG Compliant](https://img.shields.io/badge/♿-WCAG%20Compliant-FF6B4A?style=for-the-badge)]()
+[![Dark Mode Ready](https://img.shields.io/badge/🌙-Dark%20Mode%20Ready-6C5CE7?style=for-the-badge)]()
+
+</div>
   <div align="center">
 
 # 🎨 Modern App Color Combinations
@@ -229,5 +240,27 @@ If this guide helps you, please consider supporting it:
 
 **Built with ❤️ for the developer community**  
 *Last updated: February 2026*
+
+</div>
+
+<div align="center">
+
+---
+
+## ⭐ Show Your Support
+
+[![Star Repo](https://img.shields.io/badge/⭐-Star%20this%20Repo-4ECDC4?style=for-the-badge&logo=github)](https://github.com/Bd-Mutant7/Modern-App-Color-Combos/stargazers)
+[![Fork Repo](https://img.shields.io/badge/🍴-Fork%20this%20Repo-00A86B?style=for-the-badge&logo=github)](https://github.com/Bd-Mutant7/Modern-App-Color-Combos/fork)
+[![Follow](https://img.shields.io/badge/👤-Follow%20Bd--Mutant7-FF6B4A?style=for-the-badge&logo=github)](https://github.com/Bd-Mutant7)
+
+[![Built with Love](https://img.shields.io/badge/❤️-Built%20with%20Love-FF6B6B?style=for-the-badge)]()
+[![PRs Welcome](https://img.shields.io/badge/🤝-PRs%20Welcome-D4AF37?style=for-the-badge)](CONTRIBUTING.md)
+[![License MIT](https://img.shields.io/badge/📜-License%20MIT-4A90E2?style=for-the-badge)](LICENSE)
+
+---
+
+**Made with ❤️ by [Bd-Mutant7](https://github.com/Bd-Mutant7)** • 
+**📧 [spicezke@gmail.com](mailto:spicezke@gmail.com)** • 
+**📅 Last Updated: February 2026**
 
 </div>
