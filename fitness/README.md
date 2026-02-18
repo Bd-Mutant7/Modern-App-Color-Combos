@@ -40,10 +40,15 @@ Color combinations optimized for fitness and workout applications, focusing on e
 
 ## 🔗 Quick Links
 
-- [📁 Examples Directory](./examples/)
-- [🎨 Primary Palette](./primary-palette.md)
-- [🌙 Dark Mode](./dark-mode.md)
-- [💎 Luxury Style](./luxury-style.md)
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🎨 | [Primary Palette](./primary-palette.md) | Main color scheme |
+| 🌙 | [Dark Mode](./dark-mode.md) | Dark theme variant |
+| 💎 | [Luxury Style](./luxury-style.md) | Premium fitness palette |
+| 📱 | [Examples Directory](./examples/) | Case studies |
+| 💪 | [Strava Case Study](./examples/strava-example.md) | Running tracker |
+| 🏋️ | [Nike Training](./examples/nike-training-example.md) | Workout app |
+| 📊 | [MyFitnessPal](./examples/myfitnesspal-example.md) | Nutrition tracker |
 
 ---
 
