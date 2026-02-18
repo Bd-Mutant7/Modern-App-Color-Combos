@@ -26,3 +26,25 @@
   --amazon-secondary: #2C3E50;    /* Dark Gray - Trust */
   --amazon-background: #FFFFFF;   /* White - Clean */
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🎨 | [E-commerce Primary Palette](../primary-palette.md) | Main color scheme |
+| 🌙 | [E-commerce Dark Mode](../dark-mode.md) | Dark theme variant |
+| 💎 | [E-commerce Luxury Style](../luxury-style.md) | Premium palette |
+| 📱 | [Back to Examples](./) | All case studies |
+| 🛍️ | [Shopify](./shopify-example.md) | Previous case study |
+| 🏷️ | [eBay](./ebay-example.md) | Next case study |
+
+### 🌐 External Links
+- 🌐 [Amazon Official Website](https://www.amazon.com)
+- 📱 [Download on App Store](https://apps.apple.com/app/amazon)
+- 📱 [Get it on Google Play](https://play.google.com/store/apps/details?id=com.amazon)
+- 📘 [Amazon Day 1 Blog](https://blog.aboutamazon.com)
+- 🐦 [Amazon on Twitter](https://twitter.com/amazon)
+
+---
+
+**[⬆ Back to Top](#top)** • **[📁 All Examples](./)** • **[🏠 E-commerce Home](../README.md)**
