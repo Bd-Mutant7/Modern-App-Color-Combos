@@ -34,3 +34,23 @@
   --nike-accent: #BFFF00;        /* Lime - Energy */
   --nike-background: #F8FAFC;    /* Light Gray - Surface */
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🎨 | [Fitness Primary Palette](../primary-palette.md) | Main color scheme |
+| 🌙 | [Fitness Dark Mode](../dark-mode.md) | Dark theme variant |
+| 💎 | [Fitness Luxury Style](../luxury-style.md) | Premium palette |
+| 📱 | [Back to Examples](./) | All case studies |
+| 💪 | [Strava](./strava-example.md) | Running tracker analysis |
+| 📊 | [MyFitnessPal](./myfitnesspal-example.md) | Nutrition tracker analysis |
+
+### 🌐 External Links
+- 🌐 [Nike Training Official](https://www.nike.com/ntc-app)
+- 📱 [Download on App Store](https://apps.apple.com/app/nike-training-club)
+- 📱 [Get it on Google Play](https://play.google.com/store/apps/details?id=com.nike.ntc)
+
+---
+
+**[⬆ Back to Top](#top)** • **[📁 All Examples](./)** • **[🏠 Fitness Home](../README.md)**
