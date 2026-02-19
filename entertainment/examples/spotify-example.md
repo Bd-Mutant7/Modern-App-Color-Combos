@@ -27,3 +27,25 @@
   --spotify-text: #FFFFFF;          /* White - Readability */
   --spotify-highlight: #1A1A1A;     /* Dark Gray - Cards */
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🎨 | [Entertainment Primary Palette](../primary-palette.md) | Main color scheme |
+| 🌙 | [Entertainment Dark Mode](../dark-mode.md) | Dark theme variant |
+| 💎 | [Entertainment Luxury Style](../luxury-style.md) | Premium palette |
+| 📱 | [Back to Examples](./) | All case studies |
+| 🎬 | [Netflix](./netflix-example.md) | Previous case study |
+| 📺 | [YouTube](./youtube-example.md) | Next case study |
+
+### 🌐 External Links
+- 🌐 [Spotify Official](https://www.spotify.com)
+- 📱 [App Store](https://apps.apple.com/app/spotify)
+- 📱 [Google Play](https://play.google.com/store/apps/details?id=com.spotify.music)
+- 📘 [Spotify Engineering](https://engineering.atspotify.com)
+- 🐦 [Twitter](https://twitter.com/spotify)
+
+---
+
+**[⬆ Back to Top](#top)** • **[📁 All Examples](./)** • **[🏠 Entertainment Home](../README.md)**
