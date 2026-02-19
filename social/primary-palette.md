@@ -80,13 +80,13 @@
 
 | Icon | Link | Description |
 |:----:|:----|:-----------:|
-| 🌙 | [Productivity Dark Mode](./dark-mode.md) | Dark theme variant |
-| 💎 | [Productivity Luxury Style](./luxury-style.md) | Premium palette |
-| 📱 | [Productivity Examples](./examples/) | Case studies |
-| 📝 | [Notion](./examples/notion-example.md) | All-in-one workspace |
-| ✅ | [Todoist](./examples/todoist-example.md) | Task management |
-| 🚀 | [ClickUp](./examples/clickup-example.md) | Project management |
+| 🌙 | [Social Dark Mode](./dark-mode.md) | Dark theme variant |
+| 💎 | [Social Luxury Style](./luxury-style.md) | Premium palette |
+| 📱 | [Social Examples](./examples/) | Case studies |
+| 📸 | [Instagram](./examples/instagram-example.md) | Photo sharing |
+| 🎵 | [TikTok](./examples/tiktok-example.md) | Short videos |
+| 🐦 | [Twitter/X](./examples/twitter-example.md) | Microblogging |
 
 ---
 
-**[⬆ Back to Top](#top)** • **[🏠 Productivity Home](../README.md)****[🏠 Social Home](../README.md)**
+**[⬆ Back to Top](#top)** • **[🏠 Social Home](../README.md)**
