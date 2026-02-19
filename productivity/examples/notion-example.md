@@ -28,3 +28,25 @@
   --notion-text: #1A1A1A;            /* Black - Readable */
   --notion-accent: #4A90E2;          /* Blue - Links */
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🎨 | [Productivity Primary Palette](../primary-palette.md) | Main color scheme |
+| 🌙 | [Productivity Dark Mode](../dark-mode.md) | Dark theme variant |
+| 💎 | [Productivity Luxury Style](../luxury-style.md) | Premium palette |
+| 📱 | [Back to Examples](./) | All case studies |
+| ✅ | [Todoist](./todoist-example.md) | Next case study |
+| 🚀 | [ClickUp](./clickup-example.md) | Project management |
+
+### 🌐 External Links
+- 🌐 [Notion Official](https://www.notion.so)
+- 📱 [App Store](https://apps.apple.com/app/notion)
+- 📱 [Google Play](https://play.google.com/store/apps/details?id=notion.id)
+- 📘 [Notion Blog](https://www.notion.so/blog)
+- 🐦 [Twitter](https://twitter.com/notion)
+
+---
+
+**[⬆ Back to Top](#top)** • **[📁 All Examples](./)** • **[🏠 Productivity Home](../README.md)**
