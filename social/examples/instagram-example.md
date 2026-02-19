@@ -31,3 +31,25 @@
 .gradient-story {
   background: linear-gradient(135deg, var(--instagram-gradient-start), var(--instagram-gradient-end));
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🎨 | [Social Primary Palette](../primary-palette.md) | Main color scheme |
+| 🌙 | [Social Dark Mode](../dark-mode.md) | Dark theme variant |
+| 💎 | [Social Luxury Style](../luxury-style.md) | Premium palette |
+| 📱 | [Back to Examples](./) | All case studies |
+| 🎵 | [TikTok](./tiktok-example.md) | Next case study |
+| 🐦 | [Twitter/X](./twitter-example.md) | Microblogging |
+
+### 🌐 External Links
+- 🌐 [Instagram Official](https://www.instagram.com)
+- 📱 [App Store](https://apps.apple.com/app/instagram)
+- 📱 [Google Play](https://play.google.com/store/apps/details?id=com.instagram.android)
+- 📘 [Instagram Blog](https://about.instagram.com/blog)
+- 🐦 [Twitter](https://twitter.com/instagram)
+
+---
+
+**[⬆ Back to Top](#top)** • **[📁 All Examples](./)** • **[🏠 Social Home](../README.md)**
