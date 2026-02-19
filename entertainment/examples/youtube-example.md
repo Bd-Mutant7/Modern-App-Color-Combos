@@ -27,3 +27,25 @@
   --youtube-text: #FFFFFF;          /* White - Readability */
   --youtube-secondary: #4A90E2;     /* Blue - Links */
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🎨 | [Entertainment Primary Palette](../primary-palette.md) | Main color scheme |
+| 🌙 | [Entertainment Dark Mode](../dark-mode.md) | Dark theme variant |
+| 💎 | [Entertainment Luxury Style](../luxury-style.md) | Premium palette |
+| 📱 | [Back to Examples](./) | All case studies |
+| 🎬 | [Netflix](./netflix-example.md) | Streaming platform |
+| 🎵 | [Spotify](./spotify-example.md) | Music streaming |
+
+### 🌐 External Links
+- 🌐 [YouTube Official](https://www.youtube.com)
+- 📱 [App Store](https://apps.apple.com/app/youtube)
+- 📱 [Google Play](https://play.google.com/store/apps/details?id=com.google.android.youtube)
+- 📘 [YouTube Blog](https://blog.youtube)
+- 🐦 [Twitter](https://twitter.com/YouTube)
+
+---
+
+**[⬆ Back to Top](#top)** • **[📁 All Examples](./)** • **[🏠 Entertainment Home](../README.md)**
