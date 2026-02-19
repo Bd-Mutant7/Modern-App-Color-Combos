@@ -59,6 +59,8 @@ cd Modern-App-Color-Combos/health
 #    - examples/          - Real-world case studies
 ```
 <div align="center">
+
+  
 ## 📁 App Categories
 
 | Category | Explore Palettes | Case Studies |
