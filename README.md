@@ -226,8 +226,6 @@ copies of the Software.
 [![Email](https://img.shields.io/badge/Email-4ECDC4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spicezke@gmail.com)
 
 
----
-
 </div>
 
 <div align="center">
