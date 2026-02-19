@@ -27,3 +27,25 @@
   --tiktok-text: #FFFFFF;            /* White - Contrast */
   --tiktok-accent: #6C5CE7;          /* Purple - Creative */
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🎨 | [Social Primary Palette](../primary-palette.md) | Main color scheme |
+| 🌙 | [Social Dark Mode](../dark-mode.md) | Dark theme variant |
+| 💎 | [Social Luxury Style](../luxury-style.md) | Premium palette |
+| 📱 | [Back to Examples](./) | All case studies |
+| 📸 | [Instagram](./instagram-example.md) | Previous case study |
+| 🐦 | [Twitter/X](./twitter-example.md) | Next case study |
+
+### 🌐 External Links
+- 🌐 [TikTok Official](https://www.tiktok.com)
+- 📱 [App Store](https://apps.apple.com/app/tiktok)
+- 📱 [Google Play](https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically)
+- 📘 [TikTok Newsroom](https://newsroom.tiktok.com)
+- 🐦 [Twitter](https://twitter.com/tiktok_us)
+
+---
+
+**[⬆ Back to Top](#top)** • **[📁 All Examples](./)** • **[🏠 Social Home](../README.md)**
