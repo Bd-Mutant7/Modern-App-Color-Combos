@@ -50,3 +50,15 @@
   color: var(--text);
   transition: all 0.3s ease;
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🎨 | [Education Primary Palette](./primary-palette.md) | Main color scheme |
+| 💎 | [Education Luxury Style](./luxury-style.md) | Premium palette |
+| 📱 | [Education Examples](./examples/) | Case studies |
+
+---
+
+**[⬆ Back to Top](#top)** • **[🏠 Education Home](../README.md)**
