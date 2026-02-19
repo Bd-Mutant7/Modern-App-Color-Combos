@@ -50,3 +50,15 @@
   background: var(--background);
   color: var(--text);
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🎨 | [Social Primary Palette](./primary-palette.md) | Main color scheme |
+| 💎 | [Social Luxury Style](./luxury-style.md) | Premium palette |
+| 📱 | [Social Examples](./examples/) | Case studies |
+
+---
+
+**[⬆ Back to Top](#top)** • **[🏠 Social Home](../README.md)**
