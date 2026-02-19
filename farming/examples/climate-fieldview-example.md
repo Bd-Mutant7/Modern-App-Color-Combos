@@ -28,3 +28,25 @@
   --fieldview-background: #FFF8E7;      /* Cream - Warmth */
   --fieldview-alert: #E2725B;            /* Terracotta - Warnings */
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🎨 | [Farming Primary Palette](../primary-palette.md) | Main color scheme |
+| 🌙 | [Farming Dark Mode](../dark-mode.md) | Dark theme variant |
+| 💎 | [Farming Luxury Style](../luxury-style.md) | Premium palette |
+| 📱 | [Back to Examples](./) | All case studies |
+| 📊 | [FarmLogs](./farmlogs-example.md) | Next case study |
+| 🐄 | [AgriWebb](./agriwebb-example.md) | Livestock management |
+
+### 🌐 External Links
+- 🌐 [Climate FieldView Official](https://climate.com)
+- 📱 [App Store](https://apps.apple.com/app/climate-fieldview)
+- 📱 [Google Play](https://play.google.com/store/apps/details?id=com.climate.fieldview)
+- 📘 [Climate Blog](https://climate.com/blog)
+- 🐦 [Twitter](https://twitter.com/climatefieldview)
+
+---
+
+**[⬆ Back to Top](#top)** • **[📁 All Examples](./)** • **[🏠 Farming Home](../README.md)**
