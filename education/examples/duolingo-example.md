@@ -36,13 +36,16 @@
 | 🌙 | [Education Dark Mode](../dark-mode.md) | Dark theme variant |
 | 💎 | [Education Luxury Style](../luxury-style.md) | Premium palette |
 | 📱 | [Back to Examples](./) | All case studies |
-| 📐 | [Khan Academy](./khan-academy-example.md) | Next case study |
+| 📐 | [Khan Academy](./khan-academy-example.md) | Educational platform |
 | 🎓 | [Coursera](./coursera-example.md) | Online courses |
 
 ### 🌐 External Links
-- 🌐 [Duolingo Official](https://www.duolingo.com)
-- 📱 [App Store](https://apps.apple.com/app/duolingo)
-- 📱 [Google Play](https://play.google.com/store/apps/details?id=com.duolingo)
+- 🌐 [Duolingo Official Website](https://www.duolingo.com)
+- 📱 [Download on App Store](https://apps.apple.com/app/duolingo)
+- 📱 [Get it on Google Play](https://play.google.com/store/apps/details?id=com.duolingo)
+- 📘 [Duolingo Blog](https://blog.duolingo.com)
+- 🐦 [Duolingo on Twitter](https://twitter.com/duolingo)
+- 📺 [Duolingo YouTube](https://youtube.com/duolingo)
 
 ---
 
