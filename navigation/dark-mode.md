@@ -47,3 +47,15 @@
   background: var(--map-bg);
   color: white;
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🎨 | [Navigation Primary Palette](./primary-palette.md) | Main color scheme |
+| 💎 | [Navigation Luxury Style](./luxury-style.md) | Premium palette |
+| 📱 | [Navigation Examples](./examples/) | Case studies |
+
+---
+
+**[⬆ Back to Top](#top)** • **[🏠 Navigation Home](../README.md)**
