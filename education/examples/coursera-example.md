@@ -27,3 +27,26 @@
   --coursera-background: #FFFFFF;   /* White - Clean */
   --coursera-accent: #00A86B;       /* Green - Success */
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🎨 | [Education Primary Palette](../primary-palette.md) | Main color scheme |
+| 🌙 | [Education Dark Mode](../dark-mode.md) | Dark theme variant |
+| 💎 | [Education Luxury Style](../luxury-style.md) | Premium palette |
+| 📱 | [Back to Examples](./) | All case studies |
+| 🦉 | [Duolingo](./duolingo-example.md) | Language learning |
+| 📐 | [Khan Academy](./khan-academy-example.md) | Educational platform |
+
+### 🌐 External Links
+- 🌐 [Coursera Official Website](https://www.coursera.org)
+- 📱 [Download on App Store](https://apps.apple.com/app/coursera)
+- 📱 [Get it on Google Play](https://play.google.com/store/apps/details?id=org.coursera.android)
+- 📘 [Coursera Blog](https://blog.coursera.org)
+- 🐦 [Coursera on Twitter](https://twitter.com/coursera)
+- 📺 [Coursera YouTube](https://youtube.com/coursera)
+
+---
+
+**[⬆ Back to Top](#top)** • **[📁 All Examples](./)** • **[🏠 Education Home](../README.md)**
