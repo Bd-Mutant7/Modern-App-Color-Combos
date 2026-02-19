@@ -27,3 +27,26 @@
   --khan-background: #FFF9F0;      /* Warm White - Readability */
   --khan-text: #4A5568;            /* Slate - Readable */
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🎨 | [Education Primary Palette](../primary-palette.md) | Main color scheme |
+| 🌙 | [Education Dark Mode](../dark-mode.md) | Dark theme variant |
+| 💎 | [Education Luxury Style](../luxury-style.md) | Premium palette |
+| 📱 | [Back to Examples](./) | All case studies |
+| 🦉 | [Duolingo](./duolingo-example.md) | Language learning |
+| 🎓 | [Coursera](./coursera-example.md) | Online courses |
+
+### 🌐 External Links
+- 🌐 [Khan Academy Official Website](https://www.khanacademy.org)
+- 📱 [Download on App Store](https://apps.apple.com/app/khan-academy)
+- 📱 [Get it on Google Play](https://play.google.com/store/apps/details?id=org.khanacademy.android)
+- 📘 [Khan Academy Blog](https://blog.khanacademy.org)
+- 🐦 [Khan Academy on Twitter](https://twitter.com/khanacademy)
+- 📺 [Khan Academy YouTube](https://youtube.com/khanacademy)
+
+---
+
+**[⬆ Back to Top](#top)** • **[📁 All Examples](./)** • **[🏠 Education Home](../README.md)**
