@@ -50,3 +50,15 @@
   background: var(--background);
   color: var(--soil);
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🎨 | [Farming Primary Palette](./primary-palette.md) | Main color scheme |
+| 💎 | [Farming Luxury Style](./luxury-style.md) | Premium palette |
+| 📱 | [Farming Examples](./examples/) | Case studies |
+
+---
+
+**[⬆ Back to Top](#top)** • **[🏠 Farming Home](../README.md)**
