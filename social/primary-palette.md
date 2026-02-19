@@ -75,3 +75,18 @@
   margin: 8px 0;
   box-shadow: 0 2px 4px rgba(0,0,0,0.05);
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🌙 | [Social Dark Mode](./dark-mode.md) | Dark theme variant |
+| 💎 | [Social Luxury Style](./luxury-style.md) | Premium palette |
+| 📱 | [Social Examples](./examples/) | Case studies |
+| 📸 | [Instagram](./examples/instagram-example.md) | Photo sharing |
+| 🎵 | [TikTok](./examples/tiktok-example.md) | Short videos |
+| 🐦 | [Twitter/X](./examples/twitter-example.md) | Microblogging |
+
+---
+
+**[⬆ Back to Top](#top)** • **[🏠 Social Home](../README.md)**
