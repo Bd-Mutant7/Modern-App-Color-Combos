@@ -28,3 +28,25 @@
   --google-maps-water: #0A2342;       /* Navy - Water */
   --google-maps-background: #FFFFFF;  /* White - Map bg */
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🎨 | [Navigation Primary Palette](../primary-palette.md) | Main color scheme |
+| 🌙 | [Navigation Dark Mode](../dark-mode.md) | Dark theme variant |
+| 💎 | [Navigation Luxury Style](../luxury-style.md) | Premium palette |
+| 📱 | [Back to Examples](./) | All case studies |
+| 🚗 | [Waze](./waze-example.md) | Next case study |
+| 🍎 | [Apple Maps](./apple-maps-example.md) | iOS navigation |
+
+### 🌐 External Links
+- 🌐 [Google Maps Official](https://www.google.com/maps)
+- 📱 [App Store](https://apps.apple.com/app/google-maps)
+- 📱 [Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.maps)
+- 📘 [Google Maps Blog](https://blog.google/products/maps)
+- 🐦 [Twitter](https://twitter.com/googlemaps)
+
+---
+
+**[⬆ Back to Top](#top)** • **[📁 All Examples](./)** • **[🏠 Navigation Home](../README.md)**
