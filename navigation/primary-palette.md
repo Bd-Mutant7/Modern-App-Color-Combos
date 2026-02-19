@@ -63,3 +63,18 @@
   fill: var(--nav-park);
   opacity: 0.3;
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🌙 | [Navigation Dark Mode](./dark-mode.md) | Dark theme variant |
+| 💎 | [Navigation Luxury Style](./luxury-style.md) | Premium palette |
+| 📱 | [Navigation Examples](./examples/) | Case studies |
+| 🗺️ | [Google Maps](./examples/google-maps-example.md) | Global navigation |
+| 🚗 | [Waze](./examples/waze-example.md) | Community navigation |
+| 🍎 | [Apple Maps](./examples/apple-maps-example.md) | iOS navigation |
+
+---
+
+**[⬆ Back to Top](#top)** • **[🏠 Navigation Home](../README.md)**
