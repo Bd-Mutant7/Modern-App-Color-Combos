@@ -28,3 +28,25 @@
   --agriwebb-background: #FFF8E7;       /* Cream - Warmth */
   --agriwebb-success: #228B22;           /* Forest - Healthy */
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🎨 | [Farming Primary Palette](../primary-palette.md) | Main color scheme |
+| 🌙 | [Farming Dark Mode](../dark-mode.md) | Dark theme variant |
+| 💎 | [Farming Luxury Style](../luxury-style.md) | Premium palette |
+| 📱 | [Back to Examples](./) | All case studies |
+| 🌱 | [Climate FieldView](./climate-fieldview-example.md) | Precision farming |
+| 📊 | [FarmLogs](./farmlogs-example.md) | Farm management |
+
+### 🌐 External Links
+- 🌐 [AgriWebb Official](https://agriwebb.com)
+- 📱 [App Store](https://apps.apple.com/app/agriwebb)
+- 📱 [Google Play](https://play.google.com/store/apps/details?id=com.agriwebb)
+- 📘 [AgriWebb Blog](https://agriwebb.com/blog)
+- 🐦 [Twitter](https://twitter.com/agriwebb)
+
+---
+
+**[⬆ Back to Top](#top)** • **[📁 All Examples](./)** • **[🏠 Farming Home](../README.md)**
