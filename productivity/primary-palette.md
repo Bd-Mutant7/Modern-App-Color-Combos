@@ -76,3 +76,18 @@
   background: var(--productivity-success);
   border-color: var(--productivity-success);
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🌙 | [Productivity Dark Mode](./dark-mode.md) | Dark theme variant |
+| 💎 | [Productivity Luxury Style](./luxury-style.md) | Premium palette |
+| 📱 | [Productivity Examples](./examples/) | Case studies |
+| 📝 | [Notion](./examples/notion-example.md) | All-in-one workspace |
+| ✅ | [Todoist](./examples/todoist-example.md) | Task management |
+| 🚀 | [ClickUp](./examples/clickup-example.md) | Project management |
+
+---
+
+**[⬆ Back to Top](#top)** • **[🏠 Productivity Home](../README.md)**
