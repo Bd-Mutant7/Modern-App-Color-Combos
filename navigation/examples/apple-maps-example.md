@@ -28,3 +28,24 @@
   --apple-maps-background: #FFFFFF;  /* White - Map bg */
   --apple-maps-night: #1A1A2E;       /* Dark - Night mode */
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🎨 | [Navigation Primary Palette](../primary-palette.md) | Main color scheme |
+| 🌙 | [Navigation Dark Mode](../dark-mode.md) | Dark theme variant |
+| 💎 | [Navigation Luxury Style](../luxury-style.md) | Premium palette |
+| 📱 | [Back to Examples](./) | All case studies |
+| 🗺️ | [Google Maps](./google-maps-example.md) | Global navigation |
+| 🚗 | [Waze](./waze-example.md) | Community navigation |
+
+### 🌐 External Links
+- 🌐 [Apple Maps Official](https://www.apple.com/maps)
+- 📱 [iOS App](https://www.apple.com/ios/maps)
+- 📘 [Apple Newsroom](https://www.apple.com/newsroom)
+- 🐦 [Twitter](https://twitter.com/applemaps)
+
+---
+
+**[⬆ Back to Top](#top)** • **[📁 All Examples](./)** • **[🏠 Navigation Home](../README.md)**
