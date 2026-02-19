@@ -27,3 +27,25 @@
   --todoist-background: #FFFFFF;      /* White - Clean */
   --todoist-success: #00A86B;         /* Green - Completed */
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🎨 | [Productivity Primary Palette](../primary-palette.md) | Main color scheme |
+| 🌙 | [Productivity Dark Mode](../dark-mode.md) | Dark theme variant |
+| 💎 | [Productivity Luxury Style](../luxury-style.md) | Premium palette |
+| 📱 | [Back to Examples](./) | All case studies |
+| 📝 | [Notion](./notion-example.md) | Previous case study |
+| 🚀 | [ClickUp](./clickup-example.md) | Next case study |
+
+### 🌐 External Links
+- 🌐 [Todoist Official](https://todoist.com)
+- 📱 [App Store](https://apps.apple.com/app/todoist)
+- 📱 [Google Play](https://play.google.com/store/apps/details?id=com.todoist)
+- 📘 [Todoist Blog](https://todoist.com/blog)
+- 🐦 [Twitter](https://twitter.com/todoist)
+
+---
+
+**[⬆ Back to Top](#top)** • **[📁 All Examples](./)** • **[🏠 Productivity Home](../README.md)**
