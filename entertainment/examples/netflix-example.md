@@ -27,3 +27,25 @@
   --netflix-text: #FFFFFF;         /* White - Readability */
   --netflix-hover: #B84A3A;        /* Dark Red - Hover */
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🎨 | [Entertainment Primary Palette](../primary-palette.md) | Main color scheme |
+| 🌙 | [Entertainment Dark Mode](../dark-mode.md) | Dark theme variant |
+| 💎 | [Entertainment Luxury Style](../luxury-style.md) | Premium palette |
+| 📱 | [Back to Examples](./) | All case studies |
+| 🎵 | [Spotify](./spotify-example.md) | Next case study |
+| 📺 | [YouTube](./youtube-example.md) | Video platform |
+
+### 🌐 External Links
+- 🌐 [Netflix Official](https://www.netflix.com)
+- 📱 [App Store](https://apps.apple.com/app/netflix)
+- 📱 [Google Play](https://play.google.com/store/apps/details?id=com.netflix.mediaclient)
+- 📘 [Netflix Tech Blog](https://netflixtechblog.com)
+- 🐦 [Twitter](https://twitter.com/netflix)
+
+---
+
+**[⬆ Back to Top](#top)** • **[📁 All Examples](./)** • **[🏠 Entertainment Home](../README.md)**
