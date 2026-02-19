@@ -50,3 +50,15 @@
   background: var(--background);
   color: var(--text);
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🎨 | [Productivity Primary Palette](./primary-palette.md) | Main color scheme |
+| 💎 | [Productivity Luxury Style](./luxury-style.md) | Premium palette |
+| 📱 | [Productivity Examples](./examples/) | Case studies |
+
+---
+
+**[⬆ Back to Top](#top)** • **[🏠 Productivity Home](../README.md)**
