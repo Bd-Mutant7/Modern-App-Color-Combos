@@ -55,10 +55,10 @@
 
 | Icon | Link | Description |
 |:----:|:----|:-----------:|
-| 🎨 | [Social Primary Palette](./primary-palette.md) | Main color scheme |
-| 💎 | [Social Luxury Style](./luxury-style.md) | Premium palette |
-| 📱 | [Social Examples](./examples/) | Case studies |
+| 🎨 | [Productivity Primary Palette](./primary-palette.md) | Main color scheme |
+| 💎 | [Productivity Luxury Style](./luxury-style.md) | Premium palette |
+| 📱 | [Productivity Examples](./examples/) | Case studies |
 
 ---
 
-**[⬆ Back to Top](#top)** • **[🏠 Social Home](../README.md)**
+**[⬆ Back to Top](#top)** • **[🏠 Productivity Home](../README.md)**
