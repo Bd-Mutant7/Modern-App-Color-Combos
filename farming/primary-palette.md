@@ -76,3 +76,18 @@
   font-weight: bold;
   animation: pulse 2s infinite;
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🌙 | [Farming Dark Mode](./dark-mode.md) | Dark theme variant |
+| 💎 | [Farming Luxury Style](./luxury-style.md) | Premium palette |
+| 📱 | [Farming Examples](./examples/) | Case studies |
+| 🌱 | [Climate FieldView](./examples/climate-fieldview-example.md) | Precision farming |
+| 📊 | [FarmLogs](./examples/farmlogs-example.md) | Farm management |
+| 🐄 | [AgriWebb](./examples/agriwebb-example.md) | Livestock management |
+
+---
+
+**[⬆ Back to Top](#top)** • **[🏠 Farming Home](../README.md)**
