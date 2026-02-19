@@ -48,3 +48,15 @@
   background: var(--background);
   color: var(--text);
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🎨 | [Entertainment Primary Palette](./primary-palette.md) | Main color scheme |
+| 💎 | [Entertainment Luxury Style](./luxury-style.md) | Premium palette |
+| 📱 | [Entertainment Examples](./examples/) | Case studies |
+
+---
+
+**[⬆ Back to Top](#top)** • **[🏠 Entertainment Home](../README.md)**
