@@ -75,3 +75,18 @@
   padding: 4px 12px;
   border-radius: 20px;
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🌙 | [Education Dark Mode](./dark-mode.md) | Dark theme variant |
+| 💎 | [Education Luxury Style](./luxury-style.md) | Premium palette |
+| 📱 | [Education Examples](./examples/) | Case studies |
+| 🦉 | [Duolingo Case Study](./examples/duolingo-example.md) | Language learning |
+| 📐 | [Khan Academy](./examples/khan-academy-example.md) | Educational platform |
+| 🎓 | [Coursera](./examples/coursera-example.md) | Online courses |
+
+---
+
+**[⬆ Back to Top](#top)** • **[🏠 Education Home](../README.md)**
