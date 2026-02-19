@@ -27,3 +27,23 @@
   --duolingo-accent: #FF9A8B;      /* Coral - Energy */
   --duolingo-background: #FFFFFF;  /* White - Clean */
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🎨 | [Education Primary Palette](../primary-palette.md) | Main color scheme |
+| 🌙 | [Education Dark Mode](../dark-mode.md) | Dark theme variant |
+| 💎 | [Education Luxury Style](../luxury-style.md) | Premium palette |
+| 📱 | [Back to Examples](./) | All case studies |
+| 📐 | [Khan Academy](./khan-academy-example.md) | Next case study |
+| 🎓 | [Coursera](./coursera-example.md) | Online courses |
+
+### 🌐 External Links
+- 🌐 [Duolingo Official](https://www.duolingo.com)
+- 📱 [App Store](https://apps.apple.com/app/duolingo)
+- 📱 [Google Play](https://play.google.com/store/apps/details?id=com.duolingo)
+
+---
+
+**[⬆ Back to Top](#top)** • **[📁 All Examples](./)** • **[🏠 Education Home](../README.md)**
