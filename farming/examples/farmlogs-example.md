@@ -28,3 +28,25 @@
   --farmlogs-background: #FFFFFF;        /* White - Clean */
   --farmlogs-surface: #F8F9FA;           /* Light Gray - Cards */
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🎨 | [Farming Primary Palette](../primary-palette.md) | Main color scheme |
+| 🌙 | [Farming Dark Mode](../dark-mode.md) | Dark theme variant |
+| 💎 | [Farming Luxury Style](../luxury-style.md) | Premium palette |
+| 📱 | [Back to Examples](./) | All case studies |
+| 🌱 | [Climate FieldView](./climate-fieldview-example.md) | Previous case study |
+| 🐄 | [AgriWebb](./agriwebb-example.md) | Next case study |
+
+### 🌐 External Links
+- 🌐 [FarmLogs Official](https://farmlogs.com)
+- 📱 [App Store](https://apps.apple.com/app/farmlogs)
+- 📱 [Google Play](https://play.google.com/store/apps/details?id=com.farmlogs)
+- 📘 [FarmLogs Blog](https://farmlogs.com/blog)
+- 🐦 [Twitter](https://twitter.com/farmlogs)
+
+---
+
+**[⬆ Back to Top](#top)** • **[📁 All Examples](./)** • **[🏠 Farming Home](../README.md)**
