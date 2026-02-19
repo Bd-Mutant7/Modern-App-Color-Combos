@@ -28,3 +28,25 @@
   --waze-social: #6C5CE7;          /* Purple - Community */
   --waze-background: #1A1A2E;      /* Dark - Night mode */
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🎨 | [Navigation Primary Palette](../primary-palette.md) | Main color scheme |
+| 🌙 | [Navigation Dark Mode](../dark-mode.md) | Dark theme variant |
+| 💎 | [Navigation Luxury Style](../luxury-style.md) | Premium palette |
+| 📱 | [Back to Examples](./) | All case studies |
+| 🗺️ | [Google Maps](./google-maps-example.md) | Previous case study |
+| 🍎 | [Apple Maps](./apple-maps-example.md) | Next case study |
+
+### 🌐 External Links
+- 🌐 [Waze Official](https://www.waze.com)
+- 📱 [App Store](https://apps.apple.com/app/waze)
+- 📱 [Google Play](https://play.google.com/store/apps/details?id=com.waze)
+- 📘 [Waze Blog](https://www.waze.com/blog)
+- 🐦 [Twitter](https://twitter.com/waze)
+
+---
+
+**[⬆ Back to Top](#top)** • **[📁 All Examples](./)** • **[🏠 Navigation Home](../README.md)**
