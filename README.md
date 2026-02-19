@@ -41,6 +41,7 @@ Choosing the right colors isn't just about aesthetics—it's about psychology, a
 ♿ **Accessibility-first** with WCAG compliance data
 
 ---
+</div>
 
 ## ⚡ Quick Start
 
@@ -57,6 +58,7 @@ cd Modern-App-Color-Combos/health
 #    - luxury-style.md    - Premium options
 #    - examples/          - Real-world case studies
 ```
+<div align="center">
 ## 📁 App Categories
 
 | Category | Explore Palettes | Case Studies |
@@ -223,9 +225,6 @@ copies of the Software.
 
 
 ---
-
-**Built with ❤️ for the developer community**  
-*Last updated: February 2026*
 
 </div>
 
