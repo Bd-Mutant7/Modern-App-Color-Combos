@@ -66,3 +66,18 @@
   border-radius: 20px;
   font-weight: bold;
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🌙 | [Entertainment Dark Mode](./dark-mode.md) | Dark theme variant |
+| 💎 | [Entertainment Luxury Style](./luxury-style.md) | Premium palette |
+| 📱 | [Entertainment Examples](./examples/) | Case studies |
+| 🎬 | [Netflix](./examples/netflix-example.md) | Streaming platform |
+| 🎵 | [Spotify](./examples/spotify-example.md) | Music streaming |
+| 📺 | [YouTube](./examples/youtube-example.md) | Video platform |
+
+---
+
+**[⬆ Back to Top](#top)** • **[🏠 Entertainment Home](../README.md)**
