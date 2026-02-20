@@ -49,3 +49,15 @@
 .night-mode .article-image {
   filter: brightness(0.8);
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🎨 | [News Primary Palette](./primary-palette.md) | Main color scheme |
+| 💎 | [News Luxury Style](./luxury-style.md) | Premium palette |
+| 📱 | [News Examples](./examples/) | Case studies |
+
+---
+
+**[⬆ Back to Top](#top)** • **[🏠 News Home](../README.md)**
