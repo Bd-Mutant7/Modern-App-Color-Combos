@@ -27,3 +27,25 @@
   --ubereats-background: #FFFFFF;      /* White - Clean */
   --ubereats-surface: #F8F9FA;         /* Light Gray - Cards */
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🎨 | [Food Primary Palette](../primary-palette.md) | Main color scheme |
+| 🌙 | [Food Dark Mode](../dark-mode.md) | Dark theme variant |
+| 💎 | [Food Luxury Style](../luxury-style.md) | Premium palette |
+| 📱 | [Back to Examples](./) | All case studies |
+| 🚚 | [DoorDash](./doordash-example.md) | Next case study |
+| 📝 | [Yelp](./yelp-example.md) | Restaurant reviews |
+
+### 🌐 External Links
+- 🌐 [UberEats Official](https://www.ubereats.com)
+- 📱 [App Store](https://apps.apple.com/app/ubereats)
+- 📱 [Google Play](https://play.google.com/store/apps/details?id=com.ubercab.eats)
+- 📘 [UberEats Blog](https://www.ubereats.com/blog)
+- 🐦 [Twitter](https://twitter.com/ubereats)
+
+---
+
+**[⬆ Back to Top](#top)** • **[📁 All Examples](./)** • **[🏠 Food Home](../README.md)**
