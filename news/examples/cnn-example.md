@@ -27,3 +27,25 @@
   --cnn-background: #FFFFFF;           /* White - Clean */
   --cnn-surface: #F8F9FA;              /* Light Gray - Cards */
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🎨 | [News Primary Palette](../primary-palette.md) | Main color scheme |
+| 🌙 | [News Dark Mode](../dark-mode.md) | Dark theme variant |
+| 💎 | [News Luxury Style](../luxury-style.md) | Premium palette |
+| 📱 | [Back to Examples](./) | All case studies |
+| 📺 | [BBC News](./bbc-example.md) | Previous case study |
+| 📰 | [Reuters](./reuters-example.md) | Next case study |
+
+### 🌐 External Links
+- 🌐 [CNN Official](https://www.cnn.com)
+- 📱 [App Store](https://apps.apple.com/app/cnn)
+- 📱 [Google Play](https://play.google.com/store/apps/details?id=com.cnn.mobile.android.phone)
+- 📘 [CNN Blog](https://www.cnn.com/newsletters)
+- 🐦 [Twitter](https://twitter.com/CNN)
+
+---
+
+**[⬆ Back to Top](#top)** • **[📁 All Examples](./)** • **[🏠 News Home](../README.md)**
