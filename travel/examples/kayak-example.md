@@ -27,3 +27,25 @@
   --kayak-background: #FFFFFF;         /* White - Clean */
   --kayak-accent: #FF6B4A;             /* Orange - Deals */
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🎨 | [Travel Primary Palette](../primary-palette.md) | Main color scheme |
+| 🌙 | [Travel Dark Mode](../dark-mode.md) | Dark theme variant |
+| 💎 | [Travel Luxury Style](../luxury-style.md) | Premium palette |
+| 📱 | [Back to Examples](./) | All case studies |
+| 🏠 | [Airbnb](./airbnb-example.md) | Vacation rentals |
+| 🏨 | [Booking.com](./booking-example.md) | Hotel bookings |
+
+### 🌐 External Links
+- 🌐 [Kayak Official](https://www.kayak.com)
+- 📱 [App Store](https://apps.apple.com/app/kayak)
+- 📱 [Google Play](https://play.google.com/store/apps/details?id=com.kayak.android)
+- 📘 [Kayak Blog](https://www.kayak.com/news)
+- 🐦 [Twitter](https://twitter.com/kayak)
+
+---
+
+**[⬆ Back to Top](#top)** • **[📁 All Examples](./)** • **[🏠 Travel Home](../README.md)**
