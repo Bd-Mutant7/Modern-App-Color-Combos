@@ -79,3 +79,18 @@
   font-weight: bold;
   font-size: 18px;
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🌙 | [Food Dark Mode](./dark-mode.md) | Dark theme variant |
+| 💎 | [Food Luxury Style](./luxury-style.md) | Premium palette |
+| 📱 | [Food Examples](./examples/) | Case studies |
+| 🚗 | [UberEats](./examples/ubereats-example.md) | Food delivery |
+| 🚚 | [DoorDash](./examples/doordash-example.md) | Food delivery |
+| 📝 | [Yelp](./examples/yelp-example.md) | Restaurant reviews |
+
+---
+
+**[⬆ Back to Top](#top)** • **[🏠 Food Home](../README.md)**
