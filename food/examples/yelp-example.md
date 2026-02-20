@@ -27,3 +27,25 @@
   --yelp-background: #FFFFFF;           /* White - Clean */
   --yelp-star: #FFD700;                  /* Gold - Ratings */
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🎨 | [Food Primary Palette](../primary-palette.md) | Main color scheme |
+| 🌙 | [Food Dark Mode](../dark-mode.md) | Dark theme variant |
+| 💎 | [Food Luxury Style](../luxury-style.md) | Premium palette |
+| 📱 | [Back to Examples](./) | All case studies |
+| 🚗 | [UberEats](./ubereats-example.md) | Food delivery |
+| 🚚 | [DoorDash](./doordash-example.md) | Food delivery |
+
+### 🌐 External Links
+- 🌐 [Yelp Official](https://www.yelp.com)
+- 📱 [App Store](https://apps.apple.com/app/yelp)
+- 📱 [Google Play](https://play.google.com/store/apps/details?id=com.yelp.android)
+- 📘 [Yelp Blog](https://blog.yelp.com)
+- 🐦 [Twitter](https://twitter.com/yelp)
+
+---
+
+**[⬆ Back to Top](#top)** • **[📁 All Examples](./)** • **[🏠 Food Home](../README.md)**
