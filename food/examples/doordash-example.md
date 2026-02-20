@@ -27,3 +27,25 @@
   --doordash-background: #FFFFFF;       /* White - Clean */
   --doordash-surface: #F8F9FA;          /* Light Gray - Cards */
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🎨 | [Food Primary Palette](../primary-palette.md) | Main color scheme |
+| 🌙 | [Food Dark Mode](../dark-mode.md) | Dark theme variant |
+| 💎 | [Food Luxury Style](../luxury-style.md) | Premium palette |
+| 📱 | [Back to Examples](./) | All case studies |
+| 🚗 | [UberEats](./ubereats-example.md) | Previous case study |
+| 📝 | [Yelp](./yelp-example.md) | Next case study |
+
+### 🌐 External Links
+- 🌐 [DoorDash Official](https://www.doordash.com)
+- 📱 [App Store](https://apps.apple.com/app/doordash)
+- 📱 [Google Play](https://play.google.com/store/apps/details?id=com.dd.doordash)
+- 📘 [DoorDash Blog](https://blog.doordash.com)
+- 🐦 [Twitter](https://twitter.com/doordash)
+
+---
+
+**[⬆ Back to Top](#top)** • **[📁 All Examples](./)** • **[🏠 Food Home](../README.md)**
