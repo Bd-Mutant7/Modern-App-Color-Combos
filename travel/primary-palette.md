@@ -74,3 +74,18 @@
   border-radius: 12px;
   font-size: 12px;
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🌙 | [Travel Dark Mode](./dark-mode.md) | Dark theme variant |
+| 💎 | [Travel Luxury Style](./luxury-style.md) | Premium palette |
+| 📱 | [Travel Examples](./examples/) | Case studies |
+| 🏠 | [Airbnb](./examples/airbnb-example.md) | Vacation rentals |
+| 🏨 | [Booking.com](./examples/booking-example.md) | Hotel bookings |
+| 🔍 | [Kayak](./examples/kayak-example.md) | Travel search |
+
+---
+
+**[⬆ Back to Top](#top)** • **[🏠 Travel Home](../README.md)**
