@@ -27,3 +27,25 @@
   --bbc-background: #FFFFFF;           /* White - Clean */
   --bbc-surface: #F8F9FA;              /* Light Gray - Cards */
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🎨 | [News Primary Palette](../primary-palette.md) | Main color scheme |
+| 🌙 | [News Dark Mode](../dark-mode.md) | Dark theme variant |
+| 💎 | [News Luxury Style](../luxury-style.md) | Premium palette |
+| 📱 | [Back to Examples](./) | All case studies |
+| 📡 | [CNN](./cnn-example.md) | Next case study |
+| 📰 | [Reuters](./reuters-example.md) | Wire service |
+
+### 🌐 External Links
+- 🌐 [BBC News Official](https://www.bbc.com/news)
+- 📱 [App Store](https://apps.apple.com/app/bbc-news)
+- 📱 [Google Play](https://play.google.com/store/apps/details?id=bbc.mobile.news.ww)
+- 📘 [BBC Blog](https://www.bbc.co.uk/blogs/internet)
+- 🐦 [Twitter](https://twitter.com/BBCNews)
+
+---
+
+**[⬆ Back to Top](#top)** • **[📁 All Examples](./)** • **[🏠 News Home](../README.md)**
