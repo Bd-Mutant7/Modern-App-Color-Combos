@@ -49,3 +49,15 @@
 .food-image {
   filter: brightness(0.9) contrast(1.1);
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🎨 | [Food Primary Palette](./primary-palette.md) | Main color scheme |
+| 💎 | [Food Luxury Style](./luxury-style.md) | Premium palette |
+| 📱 | [Food Examples](./examples/) | Case studies |
+
+---
+
+**[⬆ Back to Top](#top)** • **[🏠 Food Home](../README.md)**
