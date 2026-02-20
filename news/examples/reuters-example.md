@@ -27,3 +27,25 @@
   --reuters-background: #FFFFFF;        /* White - Clean */
   --reuters-surface: #F8F9FA;           /* Light Gray - Cards */
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🎨 | [News Primary Palette](../primary-palette.md) | Main color scheme |
+| 🌙 | [News Dark Mode](../dark-mode.md) | Dark theme variant |
+| 💎 | [News Luxury Style](../luxury-style.md) | Premium palette |
+| 📱 | [Back to Examples](./) | All case studies |
+| 📺 | [BBC News](./bbc-example.md) | Global news |
+| 📡 | [CNN](./cnn-example.md) | Cable news |
+
+### 🌐 External Links
+- 🌐 [Reuters Official](https://www.reuters.com)
+- 📱 [App Store](https://apps.apple.com/app/reuters)
+- 📱 [Google Play](https://play.google.com/store/apps/details?id=com.reuters.mobile.android.phone.reutersplus)
+- 📘 [Reuters Blog](https://www.reuters.com/newsletters)
+- 🐦 [Twitter](https://twitter.com/Reuters)
+
+---
+
+**[⬆ Back to Top](#top)** • **[📁 All Examples](./)** • **[🏠 News Home](../README.md)**
