@@ -27,3 +27,25 @@
   --airbnb-background: #FFFFFF;       /* White - Clean */
   --airbnb-surface: #F8F9FA;          /* Light Gray - Cards */
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🎨 | [Travel Primary Palette](../primary-palette.md) | Main color scheme |
+| 🌙 | [Travel Dark Mode](../dark-mode.md) | Dark theme variant |
+| 💎 | [Travel Luxury Style](../luxury-style.md) | Premium palette |
+| 📱 | [Back to Examples](./) | All case studies |
+| 🏨 | [Booking.com](./booking-example.md) | Next case study |
+| 🔍 | [Kayak](./kayak-example.md) | Travel search |
+
+### 🌐 External Links
+- 🌐 [Airbnb Official](https://www.airbnb.com)
+- 📱 [App Store](https://apps.apple.com/app/airbnb)
+- 📱 [Google Play](https://play.google.com/store/apps/details?id=com.airbnb.android)
+- 📘 [Airbnb News](https://news.airbnb.com)
+- 🐦 [Twitter](https://twitter.com/airbnb)
+
+---
+
+**[⬆ Back to Top](#top)** • **[📁 All Examples](./)** • **[🏠 Travel Home](../README.md)**
