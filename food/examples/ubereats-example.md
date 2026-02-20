@@ -1,0 +1,29 @@
+# 🚗 UberEats - Food Delivery Case Study
+
+<div align="center">
+  
+  [![App](https://img.shields.io/badge/App-UberEats-FF6B4A?style=flat-square)]()
+  [![Category](https://img.shields.io/badge/Category-Food%20%26%20Drink-FF6B4A?style=flat-square)](../)
+  [![Cities](https://img.shields.io/badge/Cities-6K+-4A90E2?style=flat-square)]()
+  [![Rating](https://img.shields.io/badge/Rating-4.6⭐-FFD700?style=flat-square)]()
+  
+  ---
+  
+  | [⬅️ Back to Examples](./) | [🏠 Food Home](../README.md) | [🎨 Primary](../primary-palette.md) | [🌙 Dark](../dark-mode.md) | [💎 Luxury](../luxury-style.md) |
+  |:---:|:---:|:---:|:---:|:---:|
+  
+</div>
+
+## 📱 App Overview
+
+**UberEats** is a leading food delivery platform operating in over 6,000 cities worldwide, connecting customers with local restaurants.
+
+## 🎨 Color Palette
+
+```css
+:root {
+  --ubereats-primary: #FF6B4A;        /* Orange - Appetite */
+  --ubereats-secondary: #2C3E50;       /* Dark Blue - Trust */
+  --ubereats-background: #FFFFFF;      /* White - Clean */
+  --ubereats-surface: #F8F9FA;         /* Light Gray - Cards */
+}
