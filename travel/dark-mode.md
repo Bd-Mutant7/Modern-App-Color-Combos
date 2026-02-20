@@ -49,3 +49,15 @@
 .night-mode .destination-image {
   filter: brightness(0.8);
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🎨 | [Travel Primary Palette](./primary-palette.md) | Main color scheme |
+| 💎 | [Travel Luxury Style](./luxury-style.md) | Premium palette |
+| 📱 | [Travel Examples](./examples/) | Case studies |
+
+---
+
+**[⬆ Back to Top](#top)** • **[🏠 Travel Home](../README.md)**
