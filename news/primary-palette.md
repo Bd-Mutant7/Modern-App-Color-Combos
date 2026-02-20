@@ -84,3 +84,18 @@
   text-decoration: none;
   font-weight: 500;
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🌙 | [News Dark Mode](./dark-mode.md) | Dark theme variant |
+| 💎 | [News Luxury Style](./luxury-style.md) | Premium palette |
+| 📱 | [News Examples](./examples/) | Case studies |
+| 📺 | [BBC News](./examples/bbc-example.md) | Global news |
+| 📡 | [CNN](./examples/cnn-example.md) | Cable news |
+| 📰 | [Reuters](./examples/reuters-example.md) | Wire service |
+
+---
+
+**[⬆ Back to Top](#top)** • **[🏠 News Home](../README.md)**
