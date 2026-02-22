@@ -49,3 +49,15 @@
 .album-art {
   filter: brightness(1.1) contrast(1.1);
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🎨 | [Music Primary Palette](./primary-palette.md) | Main color scheme |
+| 💎 | [Music Luxury Style](./luxury-style.md) | Premium palette |
+| 📱 | [Music Examples](./examples/) | Case studies |
+
+---
+
+**[⬆ Back to Top](#top)** • **[🏠 Music Home](../README.md)**
