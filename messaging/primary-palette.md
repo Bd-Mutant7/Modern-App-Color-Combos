@@ -96,3 +96,18 @@
   font-size: 11px;
   margin-top: 4px;
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🌙 | [Messaging Dark Mode](./dark-mode.md) | Dark theme variant |
+| 💎 | [Messaging Luxury Style](./luxury-style.md) | Premium palette |
+| 📱 | [Messaging Examples](./examples/) | Case studies |
+| 💬 | [WhatsApp](./examples/whatsapp-example.md) | Secure messaging |
+| ✈️ | [Telegram](./examples/telegram-example.md) | Cloud messaging |
+| 🔒 | [Signal](./examples/signal-example.md) | Encrypted chat |
+
+---
+
+**[⬆ Back to Top](#top)** • **[🏠 Messaging Home](../README.md)**
