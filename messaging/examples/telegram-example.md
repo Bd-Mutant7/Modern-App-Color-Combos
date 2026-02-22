@@ -27,3 +27,25 @@
   --telegram-received: #F0F2F5;         /* Light Gray - Received */
   --telegram-text: #2C3E50;             /* Dark - Text */
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🎨 | [Messaging Primary Palette](../primary-palette.md) | Main color scheme |
+| 🌙 | [Messaging Dark Mode](../dark-mode.md) | Dark theme variant |
+| 💎 | [Messaging Luxury Style](../luxury-style.md) | Premium palette |
+| 📱 | [Back to Examples](./) | All case studies |
+| 💬 | [WhatsApp](./whatsapp-example.md) | Previous case study |
+| 🔒 | [Signal](./signal-example.md) | Next case study |
+
+### 🌐 External Links
+- 🌐 [Telegram Official](https://telegram.org)
+- 📱 [App Store](https://apps.apple.com/app/telegram)
+- 📱 [Google Play](https://play.google.com/store/apps/details?id=org.telegram.messenger)
+- 📘 [Telegram Blog](https://telegram.org/blog)
+- 🐦 [Twitter](https://twitter.com/telegram)
+
+---
+
+**[⬆ Back to Top](#top)** • **[📁 All Examples](./)** • **[🏠 Messaging Home](../README.md)**
