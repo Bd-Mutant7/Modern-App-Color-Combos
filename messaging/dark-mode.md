@@ -54,3 +54,15 @@
   background: var(--received);
   color: var(--text);
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🎨 | [Messaging Primary Palette](./primary-palette.md) | Main color scheme |
+| 💎 | [Messaging Luxury Style](./luxury-style.md) | Premium palette |
+| 📱 | [Messaging Examples](./examples/) | Case studies |
+
+---
+
+**[⬆ Back to Top](#top)** • **[🏠 Messaging Home](../README.md)**
