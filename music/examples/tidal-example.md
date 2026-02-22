@@ -27,3 +27,25 @@
   --tidal-text: #FFFFFF;                /* White - Contrast */
   --tidal-accent: #00A86B;              /* Green - Hi-fi */
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🎨 | [Music Primary Palette](../primary-palette.md) | Main color scheme |
+| 🌙 | [Music Dark Mode](../dark-mode.md) | Dark theme variant |
+| 💎 | [Music Luxury Style](../luxury-style.md) | Premium palette |
+| 📱 | [Back to Examples](./) | All case studies |
+| 🎧 | [Spotify](./spotify-example.md) | Music streaming |
+| 🍎 | [Apple Music](./apple-music-example.md) | Music service |
+
+### 🌐 External Links
+- 🌐 [Tidal Official](https://tidal.com)
+- 📱 [App Store](https://apps.apple.com/app/tidal)
+- 📱 [Google Play](https://play.google.com/store/apps/details?id=com.aspiro.tidal)
+- 📘 [Tidal Blog](https://tidal.com/blog)
+- 🐦 [Twitter](https://twitter.com/TIDAL)
+
+---
+
+**[⬆ Back to Top](#top)** • **[📁 All Examples](./)** • **[🏠 Music Home](../README.md)**
