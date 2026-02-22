@@ -27,3 +27,25 @@
   --apple-music-text: #FFFFFF;          /* White - Contrast */
   --apple-music-accent: #FF3B30;        /* Red - Highlights */
 }
+```
+## 🔗 Related Links
+
+| Icon | Link | Description |
+|:----:|:----|:-----------:|
+| 🎨 | [Music Primary Palette](../primary-palette.md) | Main color scheme |
+| 🌙 | [Music Dark Mode](../dark-mode.md) | Dark theme variant |
+| 💎 | [Music Luxury Style](../luxury-style.md) | Premium palette |
+| 📱 | [Back to Examples](./) | All case studies |
+| 🎧 | [Spotify](./spotify-example.md) | Previous case study |
+| 🌊 | [Tidal](./tidal-example.md) | Next case study |
+
+### 🌐 External Links
+- 🌐 [Apple Music Official](https://www.apple.com/apple-music)
+- 📱 [App Store](https://apps.apple.com/app/apple-music)
+- 📱 [Google Play](https://play.google.com/store/apps/details?id=com.apple.android.music)
+- 📘 [Apple Newsroom](https://www.apple.com/newsroom)
+- 🐦 [Twitter](https://twitter.com/applemusic)
+
+---
+
+**[⬆ Back to Top](#top)** • **[📁 All Examples](./)** • **[🏠 Music Home](../README.md)**
