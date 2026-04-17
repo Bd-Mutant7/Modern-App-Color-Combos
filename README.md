@@ -4,6 +4,9 @@
 
 ### A curated collection of color combinations for modern app development
 
+[![Support](https://img.shields.io/badge/Support-Paystack-00C3F7?style=for-the-badge&logo=paypal&logoColor=white)](https://paystack.shop/pay/bd-mutant7)
+
+
 **Research-backed, user-tested, and developer-ready color palettes for every app category**
 
 [![GitHub stars](https://img.shields.io/github/stars/Bd-Mutant7/Modern-App-Color-Combos?style=for-the-badge&logo=github&color=4ECDC4)](https://github.com/Bd-Mutant7/Modern-App-Color-Combos/stargazers)
